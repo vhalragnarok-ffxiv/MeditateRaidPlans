@@ -1,0 +1,67 @@
+{
+  "nextId": 5,
+  "arena": {
+    "shape": "rectangle",
+    "width": 600,
+    "height": 600,
+    "padding": 120,
+    "grid": {
+      "type": "rectangle",
+      "rows": 4,
+      "columns": 4
+    }
+  },
+  "steps": [
+    {
+      "objects": [
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "This is a test",
+          "x": 0,
+          "y": 200,
+          "id": 1
+        },
+        {
+          "type": "arc",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 135,
+          "innerRadius": 100,
+          "coneAngle": 120,
+          "rotation": 180,
+          "x": 0,
+          "y": 0,
+          "id": 2,
+          "pinned": true
+        },
+        {
+          "type": "line",
+          "color": "#fc972b",
+          "opacity": 35,
+          "width": 40,
+          "length": 150,
+          "rotation": 0,
+          "x": -50,
+          "y": -25,
+          "id": 3
+        },
+        {
+          "type": "line",
+          "color": "#fc972b",
+          "opacity": 35,
+          "width": 40,
+          "length": 150,
+          "rotation": 0,
+          "x": 50,
+          "y": -25,
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
