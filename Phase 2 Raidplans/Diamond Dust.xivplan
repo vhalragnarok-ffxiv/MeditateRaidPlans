@@ -1,5 +1,5 @@
 {
-  "nextId": 301,
+  "nextId": 317,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -617,8 +617,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -206,
-          "y": -208,
+          "x": -171,
+          "y": -175,
           "id": 70
         },
         {
@@ -629,8 +629,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 205,
-          "y": 202,
+          "x": 170,
+          "y": 171,
           "id": 71
         },
         {
@@ -641,8 +641,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 241,
-          "y": 63,
+          "x": 174,
+          "y": 33,
           "id": 72
         },
         {
@@ -653,8 +653,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 206,
-          "y": -202,
+          "x": 172,
+          "y": -172,
           "id": 73
         },
         {
@@ -665,8 +665,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -206,
-          "y": 206,
+          "x": -173,
+          "y": 171,
           "id": 74
         },
         {
@@ -677,8 +677,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 238,
-          "y": -60,
+          "x": 169,
+          "y": -32,
           "id": 75
         },
         {
@@ -689,8 +689,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -244,
-          "y": -58,
+          "x": -173,
+          "y": -34,
           "id": 76
         },
         {
@@ -701,8 +701,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -239,
-          "y": 67,
+          "x": -166,
+          "y": 38,
           "id": 77
         },
         {
@@ -731,8 +731,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -212,
-          "y": 212,
+          "x": -170,
+          "y": 170,
           "id": 89
         },
         {
@@ -743,8 +743,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 212,
-          "y": 212,
+          "x": 170,
+          "y": 170,
           "id": 90
         },
         {
@@ -755,8 +755,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 212,
-          "y": -212,
+          "x": 170,
+          "y": -170,
           "id": 91
         },
         {
@@ -767,8 +767,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -212,
-          "y": -212,
+          "x": -170,
+          "y": -170,
           "id": 92
         }
       ]
@@ -940,54 +940,6 @@
           "id": 109
         },
         {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -212,
-          "y": 212,
-          "id": 110
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 212,
-          "y": 212,
-          "id": 111
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 212,
-          "y": -212,
-          "id": 112
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -212,
-          "y": -212,
-          "id": 113
-        },
-        {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
           "name": "Heavenly Strike",
@@ -1009,6 +961,54 @@
           "x": 0,
           "y": 0,
           "id": 137
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -170,
+          "y": 170,
+          "id": 301
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 170,
+          "y": 170,
+          "id": 302
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 170,
+          "y": -170,
+          "id": 303
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -170,
+          "y": -170,
+          "id": 304
         }
       ]
     },
@@ -1179,54 +1179,6 @@
           "id": 152
         },
         {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -212,
-          "y": 212,
-          "id": 153
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 212,
-          "y": 212,
-          "id": 154
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 212,
-          "y": -212,
-          "id": 155
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -212,
-          "y": -212,
-          "id": 156
-        },
-        {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
           "name": "",
@@ -1239,6 +1191,54 @@
           "x": 0,
           "y": 0,
           "id": 157
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -170,
+          "y": 170,
+          "id": 305
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 170,
+          "y": 170,
+          "id": 306
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 170,
+          "y": -170,
+          "id": 307
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -170,
+          "y": -170,
+          "id": 308
         }
       ]
     },
@@ -1980,8 +1980,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -22,
-          "y": -17,
+          "x": -12,
+          "y": -7,
           "id": 234
         },
         {
@@ -1992,8 +1992,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 27,
-          "y": 13,
+          "x": 13,
+          "y": 9,
           "id": 235
         },
         {
@@ -2004,8 +2004,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 99,
-          "y": 101,
+          "x": 86,
+          "y": 89,
           "id": 236
         },
         {
@@ -2016,8 +2016,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 27,
-          "y": -17,
+          "x": 10,
+          "y": -4,
           "id": 237
         },
         {
@@ -2028,8 +2028,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -23,
-          "y": 14,
+          "x": -11,
+          "y": 12,
           "id": 238
         },
         {
@@ -2040,8 +2040,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 103,
-          "y": -101,
+          "x": 83,
+          "y": -85,
           "id": 239
         },
         {
@@ -2052,8 +2052,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -101,
-          "y": -99,
+          "x": -87,
+          "y": -85,
           "id": 240
         },
         {
@@ -2064,8 +2064,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -101,
-          "y": 103,
+          "x": -86,
+          "y": 94,
           "id": 241
         },
         {
@@ -2094,8 +2094,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -100,
-          "y": 100,
+          "x": -85,
+          "y": 85,
           "id": 244
         },
         {
@@ -2106,8 +2106,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 100,
-          "y": 100,
+          "x": 85,
+          "y": 85,
           "id": 245
         },
         {
@@ -2118,8 +2118,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 100,
-          "y": -100,
+          "x": 85,
+          "y": -85,
           "id": 246
         },
         {
@@ -2130,8 +2130,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -100,
-          "y": -100,
+          "x": -85,
+          "y": -85,
           "id": 247
         }
       ]
@@ -2303,54 +2303,6 @@
           "id": 262
         },
         {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -100,
-          "y": 100,
-          "id": 263
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 100,
-          "y": 100,
-          "id": 264
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 100,
-          "y": -100,
-          "id": 265
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -100,
-          "y": -100,
-          "id": 266
-        },
-        {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
           "name": "Heavenly Strike",
@@ -2372,6 +2324,54 @@
           "x": 0,
           "y": 0,
           "id": 268
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -85,
+          "y": 85,
+          "id": 309
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 85,
+          "y": 85,
+          "id": 310
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 85,
+          "y": -85,
+          "id": 311
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 100,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -85,
+          "y": -85,
+          "id": 312
         }
       ]
     },
@@ -2542,54 +2542,6 @@
           "id": 283
         },
         {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -100,
-          "y": 100,
-          "id": 284
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 100,
-          "y": 100,
-          "id": 285
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 100,
-          "y": -100,
-          "id": 286
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -100,
-          "y": -100,
-          "id": 287
-        },
-        {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
           "name": "",
@@ -2602,6 +2554,54 @@
           "x": 0,
           "y": 0,
           "id": 288
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -85,
+          "y": 85,
+          "id": 313
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 85,
+          "y": 85,
+          "id": 314
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 85,
+          "y": -85,
+          "id": 315
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -85,
+          "y": -85,
+          "id": 316
         }
       ]
     },
