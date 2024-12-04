@@ -1,0 +1,3657 @@
+{
+  "nextId": 929,
+  "arena": {
+    "shape": "circle",
+    "width": 600,
+    "height": 600,
+    "padding": 120,
+    "grid": {
+      "type": "customRadial",
+      "rings": [
+        120,
+        240
+      ],
+      "spokes": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ]
+    },
+    "backgroundImage": "/arena/e8.png",
+    "backgroundOpacity": 65
+  },
+  "steps": [
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 53
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 50
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 48
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 49
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 52
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 51
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -266,
+          "y": 45,
+          "id": 47
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 268,
+          "y": 46,
+          "id": 44
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -266,
+          "y": -41,
+          "id": 46
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 269,
+          "y": -45,
+          "id": 45
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Axe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 39
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -269,
+          "y": -41,
+          "id": 31
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 268,
+          "y": 51,
+          "id": 32
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 178,
+          "y": 177,
+          "id": 33
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 270,
+          "y": -49,
+          "id": 34
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -267,
+          "y": 63,
+          "id": 35
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 180,
+          "y": -175,
+          "id": 36
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -181,
+          "y": -179,
+          "id": 37
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -186,
+          "y": 193,
+          "id": 38
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 270,
+          "y": -11,
+          "id": 40
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -264,
+          "y": -8,
+          "id": 41
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 269,
+          "y": 76,
+          "id": 42
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -266,
+          "y": 95,
+          "id": 43
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 240,
+          "x": 0,
+          "y": 0,
+          "id": 54
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 302,
+          "coneAngle": 30,
+          "rotation": 45,
+          "x": 0,
+          "y": 0,
+          "id": 55
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 301,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": 0,
+          "y": 0,
+          "id": 56
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 298,
+          "coneAngle": 30,
+          "rotation": -45,
+          "x": 0,
+          "y": 0,
+          "id": 57
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 303,
+          "coneAngle": 30,
+          "rotation": 225,
+          "x": 0,
+          "y": 0,
+          "id": 58
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Axe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 657
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 268,
+          "y": 48,
+          "id": 675
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 268,
+          "y": -39,
+          "id": 676
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -268,
+          "y": -39,
+          "id": 677
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -268,
+          "y": 48,
+          "id": 678
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 198
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 199
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 200
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 201
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 202
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 203
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Scythe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 208
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": -20,
+          "id": 209
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 20,
+          "y": 26,
+          "id": 210
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 48,
+          "y": 15,
+          "id": 211
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 23,
+          "y": -21,
+          "id": 212
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": 25,
+          "id": 213
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 47,
+          "y": -15,
+          "id": 214
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -53,
+          "y": -12,
+          "id": 215
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -58,
+          "y": 19,
+          "id": 216
+        },
+        {
+          "type": "donut",
+          "color": "#ffc800",
+          "opacity": 35,
+          "innerRadius": 300,
+          "radius": 63,
+          "x": 0,
+          "y": 0,
+          "id": 226
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 299,
+          "coneAngle": 30,
+          "rotation": 45,
+          "x": 0,
+          "y": 0,
+          "id": 222
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": 0,
+          "y": 0,
+          "id": 223
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 299,
+          "coneAngle": 30,
+          "rotation": -45,
+          "x": 0,
+          "y": 0,
+          "id": 224
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 225,
+          "x": 0,
+          "y": 0,
+          "id": 225
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 48,
+          "y": -15,
+          "id": 207
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -54,
+          "y": -13,
+          "id": 206
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 46,
+          "y": 18,
+          "id": 205
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -57,
+          "y": 19,
+          "id": 204
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 680
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 681
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 682
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 683
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 684
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 685
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Scythe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 686
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": -20,
+          "id": 687
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 20,
+          "y": 26,
+          "id": 688
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 108,
+          "y": 44,
+          "id": 689
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 23,
+          "y": -21,
+          "id": 690
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": 25,
+          "id": 691
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 104,
+          "y": -50,
+          "id": 692
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -108,
+          "y": -52,
+          "id": 693
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -110,
+          "y": 47,
+          "id": 694
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 104,
+          "y": -47,
+          "id": 695
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -106,
+          "y": -52,
+          "id": 696
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 107,
+          "y": 42,
+          "id": 697
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -109,
+          "y": 45,
+          "id": 698
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -110,
+          "y": 44,
+          "id": 699
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -108,
+          "y": -54,
+          "id": 700
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 103,
+          "y": -50,
+          "id": 701
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 107,
+          "y": 44,
+          "id": 702
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 568
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 569
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 570
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 571
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 572
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 573
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Scythe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 574
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": -20,
+          "id": 575
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 20,
+          "y": 26,
+          "id": 576
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 49,
+          "y": 4,
+          "id": 577
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 23,
+          "y": -21,
+          "id": 578
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -20,
+          "y": 25,
+          "id": 579
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -45,
+          "id": 580
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -56,
+          "y": 1,
+          "id": 581
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 1,
+          "y": 54,
+          "id": 582
+        },
+        {
+          "type": "donut",
+          "color": "#ffc800",
+          "opacity": 35,
+          "innerRadius": 300,
+          "radius": 63,
+          "x": 0,
+          "y": 0,
+          "id": 583
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 299,
+          "coneAngle": 30,
+          "rotation": 45,
+          "x": 0,
+          "y": 0,
+          "id": 584
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": 0,
+          "y": 0,
+          "id": 585
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 299,
+          "coneAngle": 30,
+          "rotation": -45,
+          "x": 0,
+          "y": 0,
+          "id": 586
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 225,
+          "x": 0,
+          "y": 0,
+          "id": 587
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 1,
+          "y": -43,
+          "id": 588
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -55,
+          "y": 1,
+          "id": 589
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 50,
+          "y": 6,
+          "id": 590
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 0,
+          "y": 57,
+          "id": 591
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Alternate Scythe Kick solution\n",
+          "x": 0,
+          "y": 372,
+          "id": 593
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 594
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 595
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 596
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 597
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 598
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 599
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Scythe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 600
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -5,
+          "y": -18,
+          "id": 601
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 7,
+          "y": 25,
+          "id": 602
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 91,
+          "y": 1,
+          "id": 603
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 7,
+          "y": -18,
+          "id": 604
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -7,
+          "y": 25,
+          "id": 605
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -1,
+          "y": -118,
+          "id": 606
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -93,
+          "y": -1,
+          "id": 607
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -1,
+          "y": 117,
+          "id": 608
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 0,
+          "y": -114,
+          "id": 614
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -95,
+          "y": 2,
+          "id": 615
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 93,
+          "y": 0,
+          "id": 616
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -1,
+          "y": 117,
+          "id": 617
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Alternate Scythe Kick solution\n",
+          "x": 0,
+          "y": 372,
+          "id": 618
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Alternate Scythe Kick solution\n",
+          "x": 0,
+          "y": 372,
+          "id": 722
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 0,
+          "y": 120,
+          "id": 723
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -94,
+          "y": 1,
+          "id": 724
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 0,
+          "y": -117,
+          "id": 725
+        },
+        {
+          "type": "starburst",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 90,
+          "y": 2,
+          "id": 726
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "knockback",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 137
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 93
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 94
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 97
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 98
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": -2,
+          "y": 185,
+          "id": 99
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 59,
+          "y": -6,
+          "id": 100
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -23,
+          "y": 20,
+          "id": 101
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 28,
+          "y": 26,
+          "id": 102
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 55,
+          "y": 28,
+          "id": 103
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -49,
+          "y": 27,
+          "id": 104
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 30,
+          "y": -5,
+          "id": 105
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -5,
+          "id": 106
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -48,
+          "y": -1,
+          "id": 107
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 108
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 109
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Heavenly Strike",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 114
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Oracle's Reflection teleports to random ordinal. \nLooking at her, Group 1 (numbers) goes to the first safe spot left of her (not on her), \nGroup 2 (letters) goes to the first safe spot right of her (not on her).",
+          "x": 6,
+          "y": 353,
+          "id": 727
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).",
+          "x": 15,
+          "y": -321,
+          "id": 728
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -199,
+          "y": 198,
+          "id": 729
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 198,
+          "y": 197,
+          "id": 730
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 195,
+          "y": -200,
+          "id": 731
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -196,
+          "y": -200,
+          "id": 732
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 42,
+          "arrowEnd": true,
+          "x": 98,
+          "y": 101,
+          "id": 733
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": -43,
+          "arrowEnd": true,
+          "x": -104,
+          "y": 98,
+          "id": 734
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "knockback",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 735
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 736
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 737
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 738
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 739
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 145,
+          "y": 154,
+          "id": 740
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 59,
+          "y": -6,
+          "id": 741
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -23,
+          "y": 20,
+          "id": 742
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 28,
+          "y": 26,
+          "id": 743
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 55,
+          "y": 28,
+          "id": 744
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -49,
+          "y": 27,
+          "id": 745
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 30,
+          "y": -5,
+          "id": 746
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -5,
+          "id": 747
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -48,
+          "y": -1,
+          "id": 748
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 749
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 750
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Heavenly Strike",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 751
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Oracle's Reflection teleports to random ordinal. \nLooking at her, Group 1 (numbers) goes to the first safe spot left of her (not on her), \nGroup 2 (letters) goes to the first safe spot right of her (not on her).",
+          "x": 6,
+          "y": 353,
+          "id": 752
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).",
+          "x": 15,
+          "y": -321,
+          "id": 753
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -199,
+          "y": 198,
+          "id": 754
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 198,
+          "y": 197,
+          "id": 755
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 195,
+          "y": -200,
+          "id": 756
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -196,
+          "y": -200,
+          "id": 757
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 135,
+          "arrowEnd": true,
+          "x": 95,
+          "y": -94,
+          "id": 758
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": -43,
+          "arrowEnd": true,
+          "x": -104,
+          "y": 98,
+          "id": 759
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "knockback",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 760
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 761
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 762
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 763
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 764
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 59,
+          "y": -6,
+          "id": 766
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -23,
+          "y": 20,
+          "id": 767
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 28,
+          "y": 26,
+          "id": 768
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 55,
+          "y": 28,
+          "id": 769
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -49,
+          "y": 27,
+          "id": 770
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 30,
+          "y": -5,
+          "id": 771
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -5,
+          "id": 772
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -48,
+          "y": -1,
+          "id": 773
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 774
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 775
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Oracle's Reflection teleports to random ordinal. \nLooking at her, Group 1 (numbers) goes to the first safe spot left of her (not on her), \nGroup 2 (letters) goes to the first safe spot right of her (not on her).",
+          "x": 6,
+          "y": 353,
+          "id": 777
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).",
+          "x": 15,
+          "y": -321,
+          "id": 778
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -199,
+          "y": 198,
+          "id": 779
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 198,
+          "y": 197,
+          "id": 780
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 195,
+          "y": -200,
+          "id": 781
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -196,
+          "y": -200,
+          "id": 782
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 135,
+          "arrowEnd": true,
+          "x": 95,
+          "y": -94,
+          "id": 783
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 200,
+          "rotation": 55,
+          "arrowEnd": true,
+          "x": 59,
+          "y": 96,
+          "id": 784
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 203,
+          "y": 1,
+          "id": 765
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Heavenly Strike",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 776
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "knockback",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 785
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 786
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 787
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 788
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 789
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 59,
+          "y": -6,
+          "id": 790
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -23,
+          "y": 20,
+          "id": 791
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 28,
+          "y": 26,
+          "id": 792
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 55,
+          "y": 28,
+          "id": 793
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -49,
+          "y": 27,
+          "id": 794
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 30,
+          "y": -5,
+          "id": 795
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -5,
+          "id": 796
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -48,
+          "y": -1,
+          "id": 797
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 798
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 799
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Oracle's Reflection teleports to random ordinal. \nLooking at her, Group 1 (numbers) goes to the first safe spot left of her (not on her), \nGroup 2 (letters) goes to the first safe spot right of her (not on her).",
+          "x": 6,
+          "y": 353,
+          "id": 800
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).",
+          "x": 15,
+          "y": -321,
+          "id": 801
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -199,
+          "y": 198,
+          "id": 802
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 198,
+          "y": 197,
+          "id": 803
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": 195,
+          "y": -200,
+          "id": 804
+        },
+        {
+          "type": "circle",
+          "color": "#00e622",
+          "opacity": 35,
+          "radius": 50,
+          "x": -196,
+          "y": -200,
+          "id": 805
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 211,
+          "rotation": -127,
+          "arrowEnd": true,
+          "x": -62,
+          "y": -86,
+          "id": 806
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 200,
+          "rotation": 55,
+          "arrowEnd": true,
+          "x": 59,
+          "y": 96,
+          "id": 807
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 151,
+          "y": -149,
+          "id": 808
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Heavenly Strike",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 809
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 194,
+          "y": 199,
+          "id": 815
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -191,
+          "y": -181,
+          "id": 816
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 173,
+          "y": 218,
+          "id": 817
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 215,
+          "y": 179,
+          "id": 818
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -227,
+          "y": -160,
+          "id": 819
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 169,
+          "y": 177,
+          "id": 820
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -189,
+          "y": -214,
+          "id": 821
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -223,
+          "y": -191,
+          "id": 822
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Kite puddles towards shiva unless directly next to her (45* away)",
+          "x": 6,
+          "y": 353,
+          "id": 825
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 151,
+          "y": -149,
+          "id": 833
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 193,
+          "y": 197,
+          "id": 835
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 242,
+          "y": 124,
+          "id": 836
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 275,
+          "y": 40,
+          "id": 837
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 278,
+          "y": -56,
+          "id": 838
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": -200,
+          "id": 839
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -141,
+          "y": -252,
+          "id": 840
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -59,
+          "y": -281,
+          "id": 841
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 40,
+          "y": -284,
+          "id": 842
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 194,
+          "y": 199,
+          "id": 843
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -191,
+          "y": -181,
+          "id": 844
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 173,
+          "y": 218,
+          "id": 845
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 215,
+          "y": 179,
+          "id": 846
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -227,
+          "y": -160,
+          "id": 847
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 169,
+          "y": 177,
+          "id": 848
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -189,
+          "y": -214,
+          "id": 849
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -223,
+          "y": -191,
+          "id": 850
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Kite puddles towards shiva unless directly next to her (45* away)",
+          "x": 6,
+          "y": 353,
+          "id": 851
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 199,
+          "y": -4,
+          "id": 852
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 193,
+          "y": 197,
+          "id": 853
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": -200,
+          "id": 857
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -141,
+          "y": -252,
+          "id": 858
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -59,
+          "y": -281,
+          "id": 859
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 40,
+          "y": -284,
+          "id": 860
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 112,
+          "y": 254,
+          "id": 861
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 9,
+          "y": 280,
+          "id": 862
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -103,
+          "y": 263,
+          "id": 863
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 277,
+          "y": 42,
+          "id": 865
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -284,
+          "y": -32,
+          "id": 866
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 244,
+          "y": 14,
+          "id": 867
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 275,
+          "y": 8,
+          "id": 868
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -281,
+          "y": 24,
+          "id": 869
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 283,
+          "y": -25,
+          "id": 870
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -282,
+          "y": 49,
+          "id": 871
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -285,
+          "y": 0,
+          "id": 872
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Position at wall behind shiva or across from shiva\n and face away from the shiva outside the arena",
+          "x": 4,
+          "y": 369,
+          "id": 873
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 199,
+          "y": -4,
+          "id": 874
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 193,
+          "y": 197,
+          "id": 875
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": -200,
+          "id": 876
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -141,
+          "y": -252,
+          "id": 877
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -59,
+          "y": -281,
+          "id": 878
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 40,
+          "y": -284,
+          "id": 879
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 112,
+          "y": 254,
+          "id": 880
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 9,
+          "y": 280,
+          "id": 881
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -103,
+          "y": 263,
+          "id": 882
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 328,
+          "y": -1,
+          "id": 883
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 277,
+          "y": 42,
+          "id": 884
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -284,
+          "y": -32,
+          "id": 885
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 244,
+          "y": 14,
+          "id": 886
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 275,
+          "y": 8,
+          "id": 887
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -281,
+          "y": 24,
+          "id": 888
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 283,
+          "y": -25,
+          "id": 889
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -282,
+          "y": 49,
+          "id": 890
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -285,
+          "y": 0,
+          "id": 891
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 200,
+          "y": 0,
+          "id": 893
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 193,
+          "y": 197,
+          "id": 894
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": -200,
+          "id": 895
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -141,
+          "y": -252,
+          "id": 896
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -59,
+          "y": -281,
+          "id": 897
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 40,
+          "y": -284,
+          "id": 898
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 112,
+          "y": 254,
+          "id": 899
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 9,
+          "y": 280,
+          "id": 900
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -103,
+          "y": 263,
+          "id": 901
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 328,
+          "y": -1,
+          "id": 902
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 519,
+          "coneAngle": 270,
+          "rotation": -90,
+          "x": 200,
+          "y": 0,
+          "id": 903
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 904
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"In stillness Freeze!\" = frontal->backal",
+          "x": 2,
+          "y": 69,
+          "id": 905
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 480,
+          "rotation": 90,
+          "arrowEnd": true,
+          "x": -15,
+          "y": 6,
+          "id": 906
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 277,
+          "y": 42,
+          "id": 907
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -284,
+          "y": -32,
+          "id": 908
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 244,
+          "y": 14,
+          "id": 909
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 275,
+          "y": 8,
+          "id": 910
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -281,
+          "y": 24,
+          "id": 911
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 283,
+          "y": -25,
+          "id": 912
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -282,
+          "y": 49,
+          "id": 913
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -285,
+          "y": 0,
+          "id": 914
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 200,
+          "y": 0,
+          "id": 915
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 193,
+          "y": 197,
+          "id": 916
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": -200,
+          "id": 917
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -141,
+          "y": -252,
+          "id": 918
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -59,
+          "y": -281,
+          "id": 919
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 40,
+          "y": -284,
+          "id": 920
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 112,
+          "y": 254,
+          "id": 921
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": 9,
+          "y": 280,
+          "id": 922
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 73,
+          "x": -103,
+          "y": 263,
+          "id": 923
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 328,
+          "y": -1,
+          "id": 924
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 519,
+          "coneAngle": 90,
+          "rotation": 90,
+          "x": 200,
+          "y": 0,
+          "id": 925
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 926
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"Sink into Silence!\" = backal->frontal",
+          "x": 2,
+          "y": 69,
+          "id": 927
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 480,
+          "rotation": -90,
+          "arrowEnd": true,
+          "x": -15,
+          "y": 6,
+          "id": 928
+        }
+      ]
+    }
+  ]
+}
