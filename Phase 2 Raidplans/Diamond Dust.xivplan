@@ -1,5 +1,5 @@
 {
-  "nextId": 317,
+  "nextId": 735,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -235,6 +235,110 @@
           "x": 0,
           "y": -275,
           "id": 27
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 345
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 346
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 347
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 348
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 349
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 350
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 351
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 352
         }
       ]
     },
@@ -299,8 +403,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -205,
-          "y": 204,
+          "x": -211,
+          "y": 211,
           "id": 47
         },
         {
@@ -308,8 +412,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": 203,
-          "y": 202,
+          "x": 208,
+          "y": 208,
           "id": 44
         },
         {
@@ -317,7 +421,7 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -205,
+          "x": -208,
           "y": -208,
           "id": 46
         },
@@ -326,8 +430,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": 205,
-          "y": -203,
+          "x": 209,
+          "y": -206,
           "id": 45
         },
         {
@@ -352,8 +456,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -206,
-          "y": -208,
+          "x": -208,
+          "y": -207,
           "id": 31
         },
         {
@@ -364,8 +468,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 205,
-          "y": 202,
+          "x": 209,
+          "y": 210,
           "id": 32
         },
         {
@@ -388,8 +492,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 206,
-          "y": -202,
+          "x": 209,
+          "y": -206,
           "id": 34
         },
         {
@@ -400,8 +504,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -206,
-          "y": 206,
+          "x": -212,
+          "y": 210,
           "id": 35
         },
         {
@@ -447,8 +551,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": 207,
-          "y": -178,
+          "x": 209,
+          "y": -177,
           "id": 40
         },
         {
@@ -458,8 +562,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": -206,
-          "y": -184,
+          "x": -207,
+          "y": -177,
           "id": 41
         },
         {
@@ -469,8 +573,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": 205,
-          "y": 222,
+          "x": 208,
+          "y": 233,
           "id": 42
         },
         {
@@ -480,8 +584,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": -206,
-          "y": 233,
+          "x": -213,
+          "y": 240,
           "id": 43
         },
         {
@@ -536,6 +640,110 @@
           "x": 0,
           "y": 0,
           "id": 58
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 353
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 354
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 355
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 356
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 357
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 358
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 359
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 360
         }
       ]
     },
@@ -548,7 +756,7 @@
           "radius": 175,
           "x": -194,
           "y": 194,
-          "id": 59
+          "id": 393
         },
         {
           "type": "circle",
@@ -557,7 +765,424 @@
           "radius": 175,
           "x": 194,
           "y": 194,
-          "id": 60
+          "id": 394
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 395
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 396
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 397
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 398
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": 211,
+          "id": 399
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 208,
+          "y": 208,
+          "id": 400
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -208,
+          "y": -208,
+          "id": 401
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 209,
+          "y": -206,
+          "id": 402
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Axe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 403
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -208,
+          "y": -207,
+          "id": 404
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 209,
+          "y": 210,
+          "id": 405
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 247,
+          "y": 3,
+          "id": 406
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 209,
+          "y": -206,
+          "id": 407
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -212,
+          "y": 210,
+          "id": 408
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -249,
+          "id": 409
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -252,
+          "y": 0,
+          "id": 410
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": 247,
+          "id": 411
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 209,
+          "y": -177,
+          "id": 412
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -207,
+          "y": -177,
+          "id": 413
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 208,
+          "y": 233,
+          "id": 414
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -213,
+          "y": 240,
+          "id": 415
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 240,
+          "x": 0,
+          "y": 0,
+          "id": 416
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 0,
+          "x": 0,
+          "y": 0,
+          "id": 417
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 90,
+          "x": 0,
+          "y": 0,
+          "id": 418
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": -90,
+          "x": 0,
+          "y": 0,
+          "id": 419
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 180,
+          "x": 0,
+          "y": 0,
+          "id": 420
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 421
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 422
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 423
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 424
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 425
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 426
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 427
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 428
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Alternate Possible Axe Kick Tech",
+          "x": -10,
+          "y": 356,
+          "id": 429
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 430
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 431
         },
         {
           "type": "circle",
@@ -566,7 +1191,7 @@
           "radius": 175,
           "x": 0,
           "y": 275,
-          "id": 61
+          "id": 432
         },
         {
           "type": "circle",
@@ -575,7 +1200,7 @@
           "radius": 175,
           "x": 0,
           "y": -275,
-          "id": 62
+          "id": 433
         },
         {
           "type": "circle",
@@ -584,7 +1209,7 @@
           "radius": 175,
           "x": -194,
           "y": -194,
-          "id": 63
+          "id": 434
         },
         {
           "type": "circle",
@@ -593,12 +1218,48 @@
           "radius": 175,
           "x": 194,
           "y": -194,
-          "id": 64
+          "id": 435
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -211,
+          "y": 211,
+          "id": 436
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 208,
+          "y": 208,
+          "id": 437
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": -208,
+          "y": -208,
+          "id": 438
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 209,
+          "y": -206,
+          "id": 439
         },
         {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
-          "name": "",
+          "name": "Axe Kick",
           "color": "#ffffff",
           "opacity": 65,
           "radius": 90,
@@ -606,8 +1267,8 @@
           "rotation": 0,
           "omniDirection": true,
           "x": 0,
-          "y": 200,
-          "id": 69
+          "y": 0,
+          "id": 440
         },
         {
           "type": "party",
@@ -617,9 +1278,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -171,
-          "y": -175,
-          "id": 70
+          "x": -208,
+          "y": -207,
+          "id": 441
         },
         {
           "type": "party",
@@ -629,9 +1290,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 170,
-          "y": 171,
-          "id": 71
+          "x": 209,
+          "y": 210,
+          "id": 442
         },
         {
           "type": "party",
@@ -641,9 +1302,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 174,
-          "y": 33,
-          "id": 72
+          "x": 106,
+          "y": -1,
+          "id": 443
         },
         {
           "type": "party",
@@ -653,9 +1314,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 172,
-          "y": -172,
-          "id": 73
+          "x": 209,
+          "y": -206,
+          "id": 444
         },
         {
           "type": "party",
@@ -665,9 +1326,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -173,
-          "y": 171,
-          "id": 74
+          "x": -212,
+          "y": 210,
+          "id": 445
         },
         {
           "type": "party",
@@ -677,9 +1338,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 169,
-          "y": -32,
-          "id": 75
+          "x": 1,
+          "y": -97,
+          "id": 446
         },
         {
           "type": "party",
@@ -689,9 +1350,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -173,
-          "y": -34,
-          "id": 76
+          "x": -111,
+          "y": 1,
+          "id": 447
         },
         {
           "type": "party",
@@ -701,18 +1362,169 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -166,
-          "y": 38,
-          "id": 77
+          "x": 0,
+          "y": 91,
+          "id": 448
         },
         {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 209,
+          "y": -177,
+          "id": 449
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -207,
+          "y": -177,
+          "id": 450
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": 208,
+          "y": 233,
+          "id": 451
+        },
+        {
+          "type": "icon",
+          "image": "/marker/red_target.png",
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "name": "Target",
+          "x": -213,
+          "y": 240,
+          "id": 452
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 458
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 459
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
           "y": 0,
-          "id": 87
+          "id": 460
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 461
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 462
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 463
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 464
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 465
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Alternate Possible Axe Kick Tech",
+          "x": -10,
+          "y": 356,
+          "id": 466
         },
         {
           "type": "circle",
@@ -721,670 +1533,80 @@
           "radius": 175,
           "x": 275,
           "y": 0,
-          "id": 88
+          "id": 467
         },
         {
-          "type": "starburst",
-          "color": "#fc972b",
+          "type": "circle",
+          "color": "#0066ff",
           "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": 170,
-          "id": 89
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": 170,
-          "id": 90
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": -170,
-          "id": 91
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": -170,
-          "id": 92
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 468
         }
       ]
     },
     {
       "objects": [
         {
-          "type": "circle",
-          "color": "#0066ff",
+          "type": "starburst",
+          "color": "#fc972b",
           "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": 194,
-          "id": 93
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 210,
+          "y": 210,
+          "id": 319
         },
         {
-          "type": "circle",
-          "color": "#0066ff",
+          "type": "starburst",
+          "color": "#fc972b",
           "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": 194,
-          "id": 94
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": 210,
+          "y": -210,
+          "id": 320
         },
         {
-          "type": "circle",
-          "color": "#0066ff",
+          "type": "starburst",
+          "color": "#fc972b",
           "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": -194,
-          "id": 97
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -210,
+          "y": -210,
+          "id": 321
         },
         {
-          "type": "circle",
-          "color": "#0066ff",
+          "type": "starburst",
+          "color": "#fc972b",
           "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": -194,
-          "id": 98
+          "radius": 600,
+          "spokes": 8,
+          "spokeWidth": 55,
+          "rotation": 0,
+          "x": -210,
+          "y": 210,
+          "id": 322
         },
         {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "Sinbound Holy",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
           "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 200,
-          "id": 99
-        },
-        {
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -15,
-          "y": -58,
-          "id": 100
-        },
-        {
-          "type": "party",
-          "image": "/actor/AST.png",
-          "name": "Astrologian",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 11,
-          "y": 53,
-          "id": 101
-        },
-        {
-          "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 10,
-          "y": 24,
-          "id": 102
-        },
-        {
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 12,
-          "y": -53,
-          "id": 103
-        },
-        {
-          "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -8,
-          "y": 52,
-          "id": 104
-        },
-        {
-          "type": "party",
-          "image": "/actor/SAM.png",
-          "name": "Samurai",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 10,
-          "y": -21,
-          "id": 105
-        },
-        {
-          "type": "party",
-          "image": "/actor/VPR.png",
-          "name": "Viper",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -10,
-          "y": -24,
-          "id": 106
-        },
-        {
-          "type": "party",
-          "image": "/actor/PCT.png",
-          "name": "Pictomancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -11,
-          "y": 27,
-          "id": 107
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 108
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 109
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "Heavenly Strike",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 0,
-          "id": 114
-        },
-        {
-          "type": "knockback",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 300,
-          "x": 0,
-          "y": 0,
-          "id": 137
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": 170,
-          "id": 301
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": 170,
-          "id": 302
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": -170,
-          "id": 303
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": -170,
-          "id": 304
-        }
-      ]
-    },
-    {
-      "objects": [
-        {
-          "type": "circle",
-          "color": "#0066ff",
           "opacity": 100,
-          "radius": 175,
-          "x": -194,
-          "y": 194,
-          "id": 138
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 194,
-          "y": 194,
-          "id": 139
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": -194,
-          "y": -194,
-          "id": 140
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 194,
-          "y": -194,
-          "id": 141
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
           "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 200,
-          "id": 142
-        },
-        {
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -13,
-          "y": -275,
-          "id": 143
-        },
-        {
-          "type": "party",
-          "image": "/actor/AST.png",
-          "name": "Astrologian",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 21,
-          "y": 283,
-          "id": 144
-        },
-        {
-          "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 12,
-          "y": 249,
-          "id": 145
-        },
-        {
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 27,
-          "y": -272,
-          "id": 146
-        },
-        {
-          "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -24,
-          "y": 287,
-          "id": 147
-        },
-        {
-          "type": "party",
-          "image": "/actor/SAM.png",
-          "name": "Samurai",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 17,
-          "y": -225,
-          "id": 148
-        },
-        {
-          "type": "party",
-          "image": "/actor/VPR.png",
-          "name": "Viper",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -10,
-          "y": -233,
-          "id": 149
-        },
-        {
-          "type": "party",
-          "image": "/actor/PCT.png",
-          "name": "Pictomancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -21,
-          "y": 254,
-          "id": 150
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 151
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 152
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 0,
-          "id": 157
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": 170,
-          "id": 305
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": 170,
-          "id": 306
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 170,
-          "y": -170,
-          "id": 307
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 600,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -170,
-          "y": -170,
-          "id": 308
-        }
-      ]
-    },
-    {
-      "objects": [
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 200,
-          "id": 163
-        },
-        {
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -13,
-          "y": -275,
-          "id": 164
-        },
-        {
-          "type": "party",
-          "image": "/actor/AST.png",
-          "name": "Astrologian",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 21,
-          "y": 283,
-          "id": 165
-        },
-        {
-          "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 12,
-          "y": 249,
-          "id": 166
-        },
-        {
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 27,
-          "y": -272,
-          "id": 167
-        },
-        {
-          "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -24,
-          "y": 287,
-          "id": 168
-        },
-        {
-          "type": "party",
-          "image": "/actor/SAM.png",
-          "name": "Samurai",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 17,
-          "y": -225,
-          "id": 169
-        },
-        {
-          "type": "party",
-          "image": "/actor/VPR.png",
-          "name": "Viper",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -10,
-          "y": -233,
-          "id": 170
-        },
-        {
-          "type": "party",
-          "image": "/actor/PCT.png",
-          "name": "Pictomancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -21,
-          "y": 254,
-          "id": 171
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 172
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 173
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 0,
-          "id": 178
+          "text": "Axe Kick Stars",
+          "x": 4,
+          "y": 151,
+          "id": 327
         }
       ]
     },
@@ -1585,113 +1807,127 @@
           "color": "#0066ff",
           "opacity": 35,
           "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 196
+          "x": 0,
+          "y": 275,
+          "id": 329
         },
         {
           "type": "circle",
           "color": "#0066ff",
           "opacity": 35,
           "radius": 175,
-          "x": -275,
+          "x": 0,
+          "y": -275,
+          "id": 330
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 361
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 362
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
           "y": 0,
-          "id": 197
+          "id": 363
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 364
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 365
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 366
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 367
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 368
         }
       ]
     },
     {
       "objects": [
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": 194,
-          "id": 198
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": 194,
-          "id": 199
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 200
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 201
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": -194,
-          "id": 202
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": -194,
-          "id": 203
-        },
-        {
-          "type": "circle",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 73,
-          "x": -58,
-          "y": 57,
-          "id": 204
-        },
-        {
-          "type": "circle",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 73,
-          "x": 58,
-          "y": 57,
-          "id": 205
-        },
-        {
-          "type": "circle",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 73,
-          "x": -58,
-          "y": -54,
-          "id": 206
-        },
-        {
-          "type": "circle",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 73,
-          "x": 58,
-          "y": -58,
-          "id": 207
-        },
         {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
@@ -1714,8 +1950,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -15,
-          "y": -50,
+          "x": -26,
+          "y": -1,
           "id": 209
         },
         {
@@ -1726,8 +1962,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 15,
-          "y": 56,
+          "x": 28,
+          "y": -1,
           "id": 210
         },
         {
@@ -1738,8 +1974,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 56,
-          "y": 54,
+          "x": 36,
+          "y": 31,
           "id": 211
         },
         {
@@ -1750,8 +1986,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 14,
-          "y": -51,
+          "x": -1,
+          "y": -29,
           "id": 212
         },
         {
@@ -1762,8 +1998,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -18,
-          "y": 55,
+          "x": 0,
+          "y": 26,
           "id": 213
         },
         {
@@ -1774,8 +2010,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 56,
-          "y": -57,
+          "x": 31,
+          "y": -33,
           "id": 214
         },
         {
@@ -1786,8 +2022,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -58,
-          "y": -55,
+          "x": -35,
+          "y": -36,
           "id": 215
         },
         {
@@ -1798,8 +2034,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -56,
-          "y": 57,
+          "x": -35,
+          "y": 32,
           "id": 216
         },
         {
@@ -1809,8 +2045,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": 57,
-          "y": -35,
+          "x": 30,
+          "y": -7,
           "id": 217
         },
         {
@@ -1820,8 +2056,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": -58,
-          "y": -25,
+          "x": -35,
+          "y": -10,
           "id": 218
         },
         {
@@ -1831,8 +2067,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": 57,
-          "y": 81,
+          "x": 36,
+          "y": 58,
           "id": 219
         },
         {
@@ -1842,8 +2078,8 @@
           "height": 32,
           "rotation": 0,
           "name": "Target",
-          "x": -57,
-          "y": 86,
+          "x": -34,
+          "y": 63,
           "id": 220
         },
         {
@@ -1852,7 +2088,7 @@
           "opacity": 35,
           "radius": 300,
           "coneAngle": 30,
-          "rotation": 15,
+          "rotation": 90,
           "x": 0,
           "y": 0,
           "id": 222
@@ -1863,7 +2099,7 @@
           "opacity": 35,
           "radius": 300,
           "coneAngle": 30,
-          "rotation": 165,
+          "rotation": 180,
           "x": 0,
           "y": 0,
           "id": 223
@@ -1874,7 +2110,7 @@
           "opacity": 35,
           "radius": 299,
           "coneAngle": 30,
-          "rotation": -15,
+          "rotation": 0,
           "x": 0,
           "y": 0,
           "id": 224
@@ -1885,7 +2121,7 @@
           "opacity": 35,
           "radius": 300,
           "coneAngle": 30,
-          "rotation": 195,
+          "rotation": -90,
           "x": 0,
           "y": 0,
           "id": 225
@@ -1895,15 +2131,11 @@
           "color": "#ffc800",
           "opacity": 35,
           "innerRadius": 300,
-          "radius": 90,
+          "radius": 61,
           "x": 0,
           "y": 0,
           "id": 226
-        }
-      ]
-    },
-    {
-      "objects": [
+        },
         {
           "type": "circle",
           "color": "#0066ff",
@@ -1911,7 +2143,7 @@
           "radius": 175,
           "x": -194,
           "y": 194,
-          "id": 227
+          "id": 331
         },
         {
           "type": "circle",
@@ -1920,7 +2152,7 @@
           "radius": 175,
           "x": 194,
           "y": 194,
-          "id": 228
+          "id": 332
         },
         {
           "type": "circle",
@@ -1929,7 +2161,7 @@
           "radius": 175,
           "x": 0,
           "y": 275,
-          "id": 229
+          "id": 333
         },
         {
           "type": "circle",
@@ -1938,7 +2170,7 @@
           "radius": 175,
           "x": 0,
           "y": -275,
-          "id": 230
+          "id": 334
         },
         {
           "type": "circle",
@@ -1947,7 +2179,7 @@
           "radius": 175,
           "x": -194,
           "y": -194,
-          "id": 231
+          "id": 335
         },
         {
           "type": "circle",
@@ -1956,8 +2188,116 @@
           "radius": 175,
           "x": 194,
           "y": -194,
-          "id": 232
+          "id": 336
         },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 369
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 370
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 371
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 372
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 373
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 374
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 375
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 376
+        }
+      ]
+    },
+    {
+      "objects": [
         {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
@@ -2064,497 +2404,226 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -86,
-          "y": 94,
+          "x": -82,
+          "y": 92,
           "id": 241
         },
         {
           "type": "circle",
           "color": "#0066ff",
-          "opacity": 100,
+          "opacity": 35,
           "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 242
+          "x": -194,
+          "y": 194,
+          "id": 337
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 338
         },
         {
           "type": "circle",
           "color": "#0066ff",
           "opacity": 100,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 339
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 100,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 340
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 341
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 342
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
           "radius": 175,
           "x": 275,
           "y": 0,
-          "id": 243
+          "id": 343
         },
         {
-          "type": "starburst",
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 344
+        },
+        {
+          "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
+          "radius": 73,
+          "x": 84,
+          "y": -83,
+          "id": 326
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
           "x": -85,
-          "y": 85,
-          "id": 244
+          "y": -84,
+          "id": 325
         },
         {
-          "type": "starburst",
+          "type": "circle",
           "color": "#fc972b",
           "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 85,
-          "y": 85,
-          "id": 245
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 85,
-          "y": -85,
-          "id": 246
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
+          "radius": 73,
           "x": -85,
-          "y": -85,
-          "id": 247
+          "y": 88,
+          "id": 324
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 73,
+          "x": 86,
+          "y": 90,
+          "id": 323
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 377
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 378
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 379
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 380
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 381
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 382
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 383
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 384
         }
       ]
     },
     {
       "objects": [
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": 194,
-          "id": 248
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": 194,
-          "id": 249
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -194,
-          "y": -194,
-          "id": 250
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 194,
-          "y": -194,
-          "id": 251
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "Sinbound Holy",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 200,
-          "id": 252
-        },
-        {
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -46,
-          "y": -17,
-          "id": 253
-        },
-        {
-          "type": "party",
-          "image": "/actor/AST.png",
-          "name": "Astrologian",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 59,
-          "y": 12,
-          "id": 254
-        },
-        {
-          "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 35,
-          "y": 13,
-          "id": 255
-        },
-        {
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 55,
-          "y": -13,
-          "id": 256
-        },
-        {
-          "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -48,
-          "y": 14,
-          "id": 257
-        },
-        {
-          "type": "party",
-          "image": "/actor/SAM.png",
-          "name": "Samurai",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 34,
-          "y": -13,
-          "id": 258
-        },
-        {
-          "type": "party",
-          "image": "/actor/VPR.png",
-          "name": "Viper",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -22,
-          "y": -16,
-          "id": 259
-        },
-        {
-          "type": "party",
-          "image": "/actor/PCT.png",
-          "name": "Pictomancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -22,
-          "y": 11,
-          "id": 260
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 0,
-          "y": -275,
-          "id": 261
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 0,
-          "y": 275,
-          "id": 262
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "Heavenly Strike",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 0,
-          "id": 267
-        },
-        {
-          "type": "knockback",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 300,
-          "x": 0,
-          "y": 0,
-          "id": 268
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -85,
-          "y": 85,
-          "id": 309
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 85,
-          "y": 85,
-          "id": 310
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": 85,
-          "y": -85,
-          "id": 311
-        },
-        {
-          "type": "starburst",
-          "color": "#fc972b",
-          "opacity": 35,
-          "radius": 100,
-          "spokes": 8,
-          "spokeWidth": 55,
-          "rotation": 0,
-          "x": -85,
-          "y": -85,
-          "id": 312
-        }
-      ]
-    },
-    {
-      "objects": [
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": -194,
-          "y": 194,
-          "id": 269
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 194,
-          "y": 194,
-          "id": 270
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": -194,
-          "y": -194,
-          "id": 271
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 194,
-          "y": -194,
-          "id": 272
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 200,
-          "id": 273
-        },
-        {
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -288,
-          "y": -13,
-          "id": 274
-        },
-        {
-          "type": "party",
-          "image": "/actor/AST.png",
-          "name": "Astrologian",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 287,
-          "y": 13,
-          "id": 275
-        },
-        {
-          "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 265,
-          "y": -15,
-          "id": 276
-        },
-        {
-          "type": "party",
-          "image": "/actor/DRK.png",
-          "name": "Dark Knight",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 285,
-          "y": -21,
-          "id": 277
-        },
-        {
-          "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -288,
-          "y": 17,
-          "id": 278
-        },
-        {
-          "type": "party",
-          "image": "/actor/SAM.png",
-          "name": "Samurai",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": 260,
-          "y": 14,
-          "id": 279
-        },
-        {
-          "type": "party",
-          "image": "/actor/VPR.png",
-          "name": "Viper",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -252,
-          "y": -17,
-          "id": 280
-        },
-        {
-          "type": "party",
-          "image": "/actor/PCT.png",
-          "name": "Pictomancer",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -258,
-          "y": 8,
-          "id": 281
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 0,
-          "y": -275,
-          "id": 282
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 0,
-          "y": 275,
-          "id": 283
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 0,
-          "y": 0,
-          "id": 288
-        },
         {
           "type": "starburst",
           "color": "#fc972b",
@@ -2602,6 +2671,1577 @@
           "x": -85,
           "y": -85,
           "id": 316
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Scythe Kick Stars",
+          "x": 4,
+          "y": 10,
+          "id": 328
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 100,
+          "radius": 175,
+          "x": -194,
+          "y": 194,
+          "id": 469
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 100,
+          "radius": 175,
+          "x": 194,
+          "y": 194,
+          "id": 470
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 100,
+          "radius": 175,
+          "x": -194,
+          "y": -194,
+          "id": 471
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 100,
+          "radius": 175,
+          "x": 194,
+          "y": -194,
+          "id": 472
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 150,
+          "id": 473
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -15,
+          "y": -58,
+          "id": 474
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 11,
+          "y": 53,
+          "id": 475
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 10,
+          "y": 24,
+          "id": 476
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 12,
+          "y": -53,
+          "id": 477
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -8,
+          "y": 52,
+          "id": 478
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 10,
+          "y": -21,
+          "id": 479
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -10,
+          "y": -24,
+          "id": 480
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -11,
+          "y": 27,
+          "id": 481
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": -275,
+          "y": 0,
+          "id": 482
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 275,
+          "y": 0,
+          "id": 483
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Heavenly Strike",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 484
+        },
+        {
+          "type": "knockback",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 485
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 486
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 487
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 488
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 489
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 490
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 491
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 492
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 493
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 150,
+          "id": 498
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 1,
+          "y": -285,
+          "id": 499
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 16,
+          "y": 279,
+          "id": 500
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 17,
+          "y": 252,
+          "id": 501
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -26,
+          "y": -251,
+          "id": 502
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -15,
+          "y": 284,
+          "id": 503
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -256,
+          "id": 504
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -280,
+          "id": 505
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -14,
+          "y": 255,
+          "id": 506
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 300,
+          "id": 509
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 511
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 512
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 513
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 514
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 515
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 516
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 517
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 518
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 519
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 520
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 114,
+          "y": 268,
+          "id": 524
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 196,
+          "y": 214,
+          "id": 525
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 259,
+          "y": 135,
+          "id": 526
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -96,
+          "y": -269,
+          "id": 527
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -193,
+          "y": -216,
+          "id": 528
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -258,
+          "y": -119,
+          "id": 529
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Always go CW unless shiva is one marker CW of your party",
+          "x": -4,
+          "y": -329,
+          "id": 530
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 106,
+          "y": 106,
+          "id": 531
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 1,
+          "y": -285,
+          "id": 532
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 16,
+          "y": 279,
+          "id": 533
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 17,
+          "y": 252,
+          "id": 534
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -26,
+          "y": -251,
+          "id": 535
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -15,
+          "y": 284,
+          "id": 536
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -256,
+          "id": 537
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -280,
+          "id": 538
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -14,
+          "y": 255,
+          "id": 539
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 212,
+          "y": 212,
+          "id": 540
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 541
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 542
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 543
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 544
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 545
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 546
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 547
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 548
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 549
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 550
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -91,
+          "y": 253,
+          "id": 551
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -186,
+          "y": 206,
+          "id": 552
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -253,
+          "y": 118,
+          "id": 553
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 103,
+          "y": -268,
+          "id": 554
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 198,
+          "y": -211,
+          "id": 555
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 258,
+          "y": -122,
+          "id": 556
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Always go CW unless shiva is one marker CW of either party\n(then a swap should be called for globally)",
+          "x": 0,
+          "y": -330,
+          "id": 557
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 150,
+          "y": 0,
+          "id": 558
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 1,
+          "y": -285,
+          "id": 559
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 16,
+          "y": 279,
+          "id": 560
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 17,
+          "y": 252,
+          "id": 561
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -26,
+          "y": -251,
+          "id": 562
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -15,
+          "y": 284,
+          "id": 563
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -256,
+          "id": 564
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -280,
+          "id": 565
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -14,
+          "y": 255,
+          "id": 566
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 300,
+          "y": 0,
+          "id": 567
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 568
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 569
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 570
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 571
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 572
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 573
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 574
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 575
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 576
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 577
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 123,
+          "y": 257,
+          "id": 578
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 214,
+          "y": 198,
+          "id": 579
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 273,
+          "y": 116,
+          "id": 580
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -97,
+          "y": -272,
+          "id": 581
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -190,
+          "y": -220,
+          "id": 582
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -254,
+          "y": -135,
+          "id": 583
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Always go CW unless shiva is one marker CW of either party\n(then a swap should be called for globally)",
+          "x": 0,
+          "y": -330,
+          "id": 584
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Sinbound Holy",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 106,
+          "y": -106,
+          "id": 585
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 1,
+          "y": -285,
+          "id": 586
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 16,
+          "y": 279,
+          "id": 587
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 17,
+          "y": 252,
+          "id": 588
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -26,
+          "y": -251,
+          "id": 589
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -15,
+          "y": 284,
+          "id": 590
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 0,
+          "y": -256,
+          "id": 591
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -25,
+          "y": -280,
+          "id": 592
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -14,
+          "y": 255,
+          "id": 593
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 212,
+          "y": -212,
+          "id": 594
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 595
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 596
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 597
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 598
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 599
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 600
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 601
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 602
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 603
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 604
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 123,
+          "y": 257,
+          "id": 605
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 214,
+          "y": 198,
+          "id": 606
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 273,
+          "y": 116,
+          "id": 607
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -97,
+          "y": -272,
+          "id": 608
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -190,
+          "y": -220,
+          "id": 609
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -254,
+          "y": -135,
+          "id": 610
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Always go CW unless shiva is one marker CW of either party\n(then a swap should be called for globally). This happens 1/4 of the time",
+          "x": 0,
+          "y": -330,
+          "id": 611
         }
       ]
     },
@@ -2618,8 +4258,8 @@
           "rotation": 0,
           "omniDirection": true,
           "x": 0,
-          "y": 200,
-          "id": 289
+          "y": 150,
+          "id": 612
         },
         {
           "type": "party",
@@ -2629,9 +4269,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -290,
-          "y": -17,
-          "id": 290
+          "x": -250,
+          "y": -9,
+          "id": 613
         },
         {
           "type": "party",
@@ -2641,9 +4281,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 293,
-          "y": 20,
-          "id": 291
+          "x": 275,
+          "y": 35,
+          "id": 614
         },
         {
           "type": "party",
@@ -2653,9 +4293,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 291,
-          "y": -8,
-          "id": 292
+          "x": 275,
+          "y": 7,
+          "id": 615
         },
         {
           "type": "party",
@@ -2665,9 +4305,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 263,
-          "y": -10,
-          "id": 293
+          "x": -280,
+          "y": 17,
+          "id": 616
         },
         {
           "type": "party",
@@ -2677,9 +4317,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -260,
-          "y": 18,
-          "id": 294
+          "x": 246,
+          "y": 34,
+          "id": 617
         },
         {
           "type": "party",
@@ -2689,9 +4329,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 260,
-          "y": 21,
-          "id": 295
+          "x": -251,
+          "y": 16,
+          "id": 618
         },
         {
           "type": "party",
@@ -2701,9 +4341,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -291,
-          "y": 17,
-          "id": 296
+          "x": -282,
+          "y": -11,
+          "id": 619
         },
         {
           "type": "party",
@@ -2713,27 +4353,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -256,
-          "y": -17,
-          "id": 297
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 0,
-          "y": -275,
-          "id": 298
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 100,
-          "radius": 175,
-          "x": 0,
-          "y": 275,
-          "id": 299
+          "x": 244,
+          "y": 6,
+          "id": 620
         },
         {
           "type": "enemy",
@@ -2746,8 +4368,1205 @@
           "rotation": 0,
           "omniDirection": true,
           "x": 0,
+          "y": 300,
+          "id": 621
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 622
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 623
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
           "y": 0,
-          "id": 300
+          "id": 624
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 625
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 626
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 627
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 628
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 629
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 630
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 631
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 114,
+          "y": 268,
+          "id": 632
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 196,
+          "y": 214,
+          "id": 633
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 259,
+          "y": 135,
+          "id": 634
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -96,
+          "y": -269,
+          "id": 635
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -193,
+          "y": -216,
+          "id": 636
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -258,
+          "y": -119,
+          "id": 637
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "After the 4 puddles,\nquickly get directly behind or opposite shiva at the wall.",
+          "x": 3,
+          "y": 354,
+          "id": 638
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 292,
+          "rotation": -150,
+          "arrowEnd": true,
+          "x": 180,
+          "y": -125,
+          "id": 639
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 292,
+          "rotation": 41,
+          "arrowEnd": true,
+          "x": -158,
+          "y": 165,
+          "id": 640
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Remember to respect gaze! Gaze shiva is behind other shiva\noutside arena, so always face relative south",
+          "x": 0,
+          "y": -323,
+          "id": 641
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 150,
+          "id": 642
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -82,
+          "y": 248,
+          "id": 643
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 125,
+          "y": -230,
+          "id": 644
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 127,
+          "y": -258,
+          "id": 645
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -112,
+          "y": 273,
+          "id": 646
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 93,
+          "y": -227,
+          "id": 647
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -84,
+          "y": 278,
+          "id": 648
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -108,
+          "y": 244,
+          "id": 649
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 96,
+          "y": -255,
+          "id": 650
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 300,
+          "id": 651
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 652
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 653
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 654
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 655
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 656
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 657
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 658
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 659
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 15,
+          "y": 285,
+          "id": 660
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 86,
+          "x": 3,
+          "y": -284,
+          "id": 661
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 114,
+          "y": 268,
+          "id": 662
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 196,
+          "y": 214,
+          "id": 663
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 259,
+          "y": 135,
+          "id": 664
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -96,
+          "y": -269,
+          "id": 665
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -193,
+          "y": -216,
+          "id": 666
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -258,
+          "y": -119,
+          "id": 667
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Icy floor",
+          "x": -5,
+          "y": 2,
+          "id": 668
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Remember to respect gaze! Gaze shiva is behind other shiva\noutside arena, so always face relative south",
+          "x": 0,
+          "y": -323,
+          "id": 671
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 20,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 672
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 150,
+          "id": 673
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -82,
+          "y": 248,
+          "id": 674
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 125,
+          "y": -230,
+          "id": 675
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 127,
+          "y": -258,
+          "id": 676
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -112,
+          "y": 273,
+          "id": 677
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 93,
+          "y": -227,
+          "id": 678
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -84,
+          "y": 278,
+          "id": 679
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -98,
+          "y": 262,
+          "id": 680
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 96,
+          "y": -255,
+          "id": 681
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 300,
+          "id": 682
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 683
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 684
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 685
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 686
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 687
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 688
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 689
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 690
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 114,
+          "y": 268,
+          "id": 693
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 196,
+          "y": 214,
+          "id": 694
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 259,
+          "y": 135,
+          "id": 695
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -96,
+          "y": -269,
+          "id": 696
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -193,
+          "y": -216,
+          "id": 697
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -258,
+          "y": -119,
+          "id": 698
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 20,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 701
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"Sink into Silence\"/Twin Silence: Front Safe->Back Safe\n\"In stillness freeze\"/Twin Stillness: Back Safe -> Front Safe",
+          "x": 6,
+          "y": 5,
+          "id": 702
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 449,
+          "rotation": -12,
+          "arrowEnd": true,
+          "x": 49,
+          "y": 5,
+          "id": 703
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 500,
+          "coneAngle": 270,
+          "rotation": 180,
+          "x": 0,
+          "y": 150,
+          "id": 704
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 150,
+          "id": 705
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -82,
+          "y": 248,
+          "id": 706
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 10,
+          "y": 248,
+          "id": 707
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 17,
+          "y": 219,
+          "id": 708
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -112,
+          "y": 273,
+          "id": 709
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -17,
+          "y": 244,
+          "id": 710
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -84,
+          "y": 278,
+          "id": 711
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -98,
+          "y": 262,
+          "id": 712
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -19,
+          "y": 218,
+          "id": 713
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 300,
+          "id": 714
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 715
+        },
+        {
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": 106,
+          "id": 716
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 717
+        },
+        {
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 106,
+          "y": -106,
+          "id": 718
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": -150,
+          "id": 719
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": -106,
+          "id": 720
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -150,
+          "y": 0,
+          "id": 721
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -106,
+          "y": 106,
+          "id": 722
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 259,
+          "y": 135,
+          "id": 725
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -258,
+          "y": -119,
+          "id": 728
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 20,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 729
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"Sink into Silence\"/Twin Silence: Front Safe->Back Safe\n\"In stillness freeze\"/Twin Stillness: Back Safe -> Front Safe",
+          "x": 6,
+          "y": 5,
+          "id": 730
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 449,
+          "rotation": -180,
+          "arrowEnd": true,
+          "x": 3,
+          "y": -3,
+          "id": 731
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 213,
+          "coneAngle": 90,
+          "rotation": 0,
+          "x": 0,
+          "y": 150,
+          "id": 733
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 449,
+          "rotation": 174,
+          "arrowEnd": true,
+          "x": -63,
+          "y": 9,
+          "id": 734
         }
       ]
     }
