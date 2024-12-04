@@ -1,5 +1,5 @@
 {
-  "nextId": 1053,
+  "nextId": 1068,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -390,6 +390,18 @@
           "x": -268,
           "y": 48,
           "id": 678
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Axe Kick Stars",
+          "x": 1,
+          "y": 128,
+          "id": 1067
         }
       ]
     },
@@ -412,24 +424,6 @@
           "x": 194,
           "y": 194,
           "id": 199
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 200
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 201
         },
         {
           "type": "circle",
@@ -648,6 +642,24 @@
           "x": -57,
           "y": 19,
           "id": 204
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 1053
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 1054
         }
       ]
     },
@@ -676,8 +688,8 @@
           "color": "#0066ff",
           "opacity": 35,
           "radius": 175,
-          "x": -275,
-          "y": 0,
+          "x": 0,
+          "y": 275,
           "id": 682
         },
         {
@@ -685,8 +697,8 @@
           "color": "#0066ff",
           "opacity": 35,
           "radius": 175,
-          "x": 275,
-          "y": 0,
+          "x": 0,
+          "y": -275,
           "id": 683
         },
         {
@@ -753,8 +765,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 108,
-          "y": 44,
+          "x": 113,
+          "y": 43,
           "id": 689
         },
         {
@@ -789,8 +801,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 104,
-          "y": -50,
+          "x": 111,
+          "y": -49,
           "id": 692
         },
         {
@@ -801,8 +813,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -108,
-          "y": -52,
+          "x": -110,
+          "y": -50,
           "id": 693
         },
         {
@@ -813,8 +825,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -110,
-          "y": 47,
+          "x": -111,
+          "y": 42,
           "id": 694
         },
         {
@@ -822,8 +834,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": 104,
-          "y": -47,
+          "x": 111,
+          "y": -49,
           "id": 695
         },
         {
@@ -831,8 +843,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -106,
-          "y": -52,
+          "x": -109,
+          "y": -50,
           "id": 696
         },
         {
@@ -840,8 +852,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": 107,
-          "y": 42,
+          "x": 112,
+          "y": 41,
           "id": 697
         },
         {
@@ -849,8 +861,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -109,
-          "y": 45,
+          "x": -111,
+          "y": 41,
           "id": 698
         }
       ]
@@ -865,8 +877,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -110,
-          "y": 44,
+          "x": 111,
+          "y": 46,
           "id": 699
         },
         {
@@ -877,9 +889,9 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -108,
-          "y": -54,
-          "id": 700
+          "x": 111,
+          "y": -46,
+          "id": 1062
         },
         {
           "type": "starburst",
@@ -889,9 +901,9 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 103,
-          "y": -50,
-          "id": 701
+          "x": -111,
+          "y": -46,
+          "id": 1063
         },
         {
           "type": "starburst",
@@ -901,9 +913,35 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 107,
-          "y": 44,
-          "id": 702
+          "x": -111,
+          "y": 46,
+          "id": 1064
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Scythe Kick",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 0,
+          "y": 0,
+          "id": 1065
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Scythe Kick Stars",
+          "x": -1,
+          "y": 360,
+          "id": 1066
         }
       ]
     },
@@ -926,24 +964,6 @@
           "x": 194,
           "y": 194,
           "id": 569
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 570
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 571
         },
         {
           "type": "circle",
@@ -1174,6 +1194,24 @@
           "x": 0,
           "y": 372,
           "id": 593
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 1055
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 1056
         }
       ]
     },
@@ -1196,24 +1234,6 @@
           "x": 194,
           "y": 194,
           "id": 595
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": -275,
-          "y": 0,
-          "id": 596
-        },
-        {
-          "type": "circle",
-          "color": "#0066ff",
-          "opacity": 35,
-          "radius": 175,
-          "x": 275,
-          "y": 0,
-          "id": 597
         },
         {
           "type": "circle",
@@ -1255,8 +1275,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -5,
-          "y": -18,
+          "x": -19,
+          "y": -4,
           "id": 601
         },
         {
@@ -1267,8 +1287,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 7,
-          "y": 25,
+          "x": 20,
+          "y": 12,
           "id": 602
         },
         {
@@ -1279,7 +1299,7 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 91,
+          "x": 117,
           "y": 1,
           "id": 603
         },
@@ -1291,8 +1311,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 7,
-          "y": -18,
+          "x": 20,
+          "y": -7,
           "id": 604
         },
         {
@@ -1303,8 +1323,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -7,
-          "y": 25,
+          "x": -18,
+          "y": 12,
           "id": 605
         },
         {
@@ -1315,8 +1335,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -1,
-          "y": -118,
+          "x": 0,
+          "y": -91,
           "id": 606
         },
         {
@@ -1327,7 +1347,7 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -93,
+          "x": -122,
           "y": -1,
           "id": 607
         },
@@ -1340,7 +1360,7 @@
           "height": 32,
           "rotation": 0,
           "x": -1,
-          "y": 117,
+          "y": 88,
           "id": 608
         },
         {
@@ -1349,7 +1369,7 @@
           "opacity": 35,
           "radius": 73,
           "x": 0,
-          "y": -114,
+          "y": -92,
           "id": 614
         },
         {
@@ -1357,8 +1377,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -95,
-          "y": 2,
+          "x": -120,
+          "y": -1,
           "id": 615
         },
         {
@@ -1366,8 +1386,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": 93,
-          "y": 0,
+          "x": 119,
+          "y": 2,
           "id": 616
         },
         {
@@ -1375,8 +1395,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 73,
-          "x": -1,
-          "y": 117,
+          "x": -2,
+          "y": 92,
           "id": 617
         },
         {
@@ -1390,6 +1410,24 @@
           "x": 0,
           "y": 372,
           "id": 618
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": 275,
+          "id": 1057
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 175,
+          "x": 0,
+          "y": -275,
+          "id": 1058
         }
       ]
     },
@@ -1402,7 +1440,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Alternate Scythe Kick solution\n",
+          "text": "Alternate Scythe Kick Stars\n",
           "x": 0,
           "y": 372,
           "id": 722
@@ -1415,8 +1453,8 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 0,
-          "y": 120,
+          "x": -120,
+          "y": 0,
           "id": 723
         },
         {
@@ -1427,9 +1465,9 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": -94,
-          "y": 1,
-          "id": 724
+          "x": 0,
+          "y": 85,
+          "id": 1059
         },
         {
           "type": "starburst",
@@ -1440,8 +1478,8 @@
           "spokeWidth": 55,
           "rotation": 0,
           "x": 0,
-          "y": -117,
-          "id": 725
+          "y": -85,
+          "id": 1060
         },
         {
           "type": "starburst",
@@ -1451,9 +1489,9 @@
           "spokes": 8,
           "spokeWidth": 55,
           "rotation": 0,
-          "x": 90,
-          "y": 2,
-          "id": 726
+          "x": 120,
+          "y": 0,
+          "id": 1061
         }
       ]
     },
@@ -1514,8 +1552,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": -2,
-          "y": 185,
+          "x": 0,
+          "y": 150,
           "id": 99
         },
         {
@@ -1665,9 +1703,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).",
-          "x": 15,
-          "y": -321,
+          "text": "Safe spots are the 2nd round shiva circles (green circle added for clarity).\nThe Correct Spot will always be the 1st or 2nd marker from her.",
+          "x": 16,
+          "y": -324,
           "id": 728
         },
         {
@@ -1789,8 +1827,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 145,
-          "y": 154,
+          "x": 106,
+          "y": 106,
           "id": 740
         },
         {
@@ -2262,8 +2300,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 203,
-          "y": 1,
+          "x": 150,
+          "y": 0,
           "id": 765
         },
         {
@@ -2537,8 +2575,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 151,
-          "y": -149,
+          "x": 106,
+          "y": -106,
           "id": 808
         },
         {
@@ -2677,8 +2715,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 151,
-          "y": -149,
+          "x": 106,
+          "y": -106,
           "id": 833
         },
         {
@@ -2875,8 +2913,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 199,
-          "y": -4,
+          "x": 150,
+          "y": 0,
           "id": 852
         },
         {
@@ -3085,8 +3123,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 199,
-          "y": -4,
+          "x": 150,
+          "y": 0,
           "id": 874
         },
         {
@@ -3099,8 +3137,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 328,
-          "y": -1,
+          "x": 300,
+          "y": 0,
           "id": 883
         },
         {
@@ -3692,7 +3730,7 @@
         {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
-          "name": "Twin Stillness",
+          "name": "Twin Silence",
           "color": "#0066ff",
           "opacity": 65,
           "radius": 90,
@@ -3864,7 +3902,7 @@
         {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
-          "name": "Twin Stillness",
+          "name": "Twin Silence",
           "color": "#0066ff",
           "opacity": 65,
           "radius": 90,
