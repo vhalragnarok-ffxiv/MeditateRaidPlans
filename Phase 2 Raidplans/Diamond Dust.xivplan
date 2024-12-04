@@ -3419,8 +3419,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 212,
-          "y": 212,
+          "x": -302,
+          "y": 1,
           "id": 540
         },
         {
@@ -3735,8 +3735,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 300,
-          "y": 0,
+          "x": 210,
+          "y": -211,
           "id": 567
         },
         {
@@ -4051,8 +4051,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 212,
-          "y": -212,
+          "x": -213,
+          "y": 212,
           "id": 594
         },
         {
@@ -4367,8 +4367,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 0,
-          "y": 300,
+          "x": 1,
+          "y": -299,
           "id": 621
         },
         {
@@ -4719,8 +4719,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 0,
-          "y": 300,
+          "x": 1,
+          "y": -299,
           "id": 651
         },
         {
@@ -4918,9 +4918,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Remember to respect gaze! Gaze shiva is behind other shiva\noutside arena, so always face relative south",
-          "x": 0,
-          "y": -323,
+          "text": "Remember to respect gayze! Gaze shiva can be anywhere",
+          "x": 9,
+          "y": -49,
           "id": 671
         },
         {
@@ -5056,8 +5056,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 0,
-          "y": 300,
+          "x": 1,
+          "y": -301,
           "id": 682
         },
         {
@@ -5386,8 +5386,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 0,
-          "y": 300,
+          "x": 2,
+          "y": -300,
           "id": 714
         },
         {

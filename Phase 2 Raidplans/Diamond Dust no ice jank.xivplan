@@ -3108,9 +3108,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Position on ring across from shiva and \nlook out to dodge gaze",
-          "x": -41,
-          "y": 82,
+          "text": "Position on ring across from shiva and respect gayze.\nGaze shiva can be anywhere",
+          "x": -56,
+          "y": 88,
           "id": 873
         },
         {
@@ -3137,8 +3137,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 300,
-          "y": 0,
+          "x": -212,
+          "y": 212,
           "id": 883
         },
         {
@@ -3323,8 +3323,8 @@
           "status": [],
           "rotation": 0,
           "omniDirection": true,
-          "x": 328,
-          "y": -1,
+          "x": -213,
+          "y": 213,
           "id": 902
         },
         {
@@ -3498,20 +3498,6 @@
           "id": 1014
         },
         {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 328,
-          "y": -1,
-          "id": 1015
-        },
-        {
           "type": "cone",
           "color": "#0066ff",
           "opacity": 35,
@@ -3580,6 +3566,20 @@
           "x": -1,
           "y": -65,
           "id": 1021
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": -214,
+          "y": 211,
+          "id": 1015
         }
       ]
     },
@@ -3682,20 +3682,6 @@
           "id": 1030
         },
         {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 328,
-          "y": -1,
-          "id": 1031
-        },
-        {
           "type": "cone",
           "color": "#0066ff",
           "opacity": 35,
@@ -3752,6 +3738,20 @@
           "x": -8,
           "y": -50,
           "id": 1037
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": -212,
+          "y": 212,
+          "id": 1031
         }
       ]
     },
@@ -3854,20 +3854,6 @@
           "id": 1045
         },
         {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#ffffff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 328,
-          "y": -1,
-          "id": 1046
-        },
-        {
           "type": "cone",
           "color": "#0066ff",
           "opacity": 35,
@@ -3936,6 +3922,20 @@
           "x": -2,
           "y": -21,
           "id": 1052
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": -212,
+          "y": 212,
+          "id": 1046
         }
       ]
     }
