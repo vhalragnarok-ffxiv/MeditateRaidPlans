@@ -1,5 +1,5 @@
 {
-  "nextId": 929,
+  "nextId": 1053,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -2615,8 +2615,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -227,
-          "y": -160,
+          "x": -212,
+          "y": -168,
           "id": 819
         },
         {
@@ -2662,7 +2662,7 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Kite puddles towards shiva unless directly next to her (45* away)",
+          "text": "Kite puddles away from shiva",
           "x": 6,
           "y": 353,
           "id": 825
@@ -2685,73 +2685,85 @@
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 193,
-          "y": 197,
-          "id": 835
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 242,
-          "y": 124,
-          "id": 836
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 275,
-          "y": 40,
-          "id": 837
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 278,
-          "y": -56,
+          "radius": 91,
+          "x": 194,
+          "y": 199,
           "id": 838
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -211,
-          "y": -200,
-          "id": 839
+          "radius": 91,
+          "x": 112,
+          "y": 266,
+          "id": 929
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -141,
-          "y": -252,
-          "id": 840
+          "radius": 91,
+          "x": 7,
+          "y": 289,
+          "id": 930
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -59,
-          "y": -281,
-          "id": 841
+          "radius": 91,
+          "x": -101,
+          "y": 273,
+          "id": 931
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 40,
-          "y": -284,
-          "id": 842
+          "radius": 91,
+          "x": -207,
+          "y": -201,
+          "id": 932
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -265,
+          "y": -109,
+          "id": 933
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -284,
+          "y": -3,
+          "id": 934
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -264,
+          "y": 103,
+          "id": 935
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "You will only ever be 45* or 90* from shiva",
+          "x": 9,
+          "y": 13,
+          "id": 945
         }
       ]
     },
@@ -2777,8 +2789,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -191,
-          "y": -181,
+          "x": 189,
+          "y": -168,
           "id": 844
         },
         {
@@ -2813,8 +2825,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -227,
-          "y": -160,
+          "x": 221,
+          "y": -178,
           "id": 847
         },
         {
@@ -2837,8 +2849,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -189,
-          "y": -214,
+          "x": 212,
+          "y": -205,
           "id": 849
         },
         {
@@ -2849,21 +2861,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -223,
-          "y": -191,
+          "x": 181,
+          "y": -201,
           "id": 850
-        },
-        {
-          "type": "text",
-          "align": "center",
-          "fontSize": 20,
-          "color": "#ffffff",
-          "opacity": 100,
-          "rotation": 0,
-          "text": "Kite puddles towards shiva unless directly next to her (45* away)",
-          "x": 6,
-          "y": 353,
-          "id": 851
         },
         {
           "type": "enemy",
@@ -2883,73 +2883,85 @@
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 193,
-          "y": 197,
-          "id": 853
+          "radius": 91,
+          "x": 196,
+          "y": 205,
+          "id": 936
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -211,
-          "y": -200,
-          "id": 857
+          "radius": 91,
+          "x": 108,
+          "y": 264,
+          "id": 937
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -141,
-          "y": -252,
-          "id": 858
+          "radius": 91,
+          "x": 0,
+          "y": 285,
+          "id": 938
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -59,
-          "y": -281,
-          "id": 859
+          "radius": 91,
+          "x": -106,
+          "y": 268,
+          "id": 939
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 40,
-          "y": -284,
-          "id": 860
+          "radius": 91,
+          "x": 208,
+          "y": -195,
+          "id": 940
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 112,
-          "y": 254,
-          "id": 861
+          "radius": 91,
+          "x": 111,
+          "y": -248,
+          "id": 941
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": 9,
-          "y": 280,
-          "id": 862
+          "radius": 91,
+          "x": 4,
+          "y": -272,
+          "id": 942
         },
         {
           "type": "circle",
           "color": "#ffc800",
           "opacity": 35,
-          "radius": 73,
-          "x": -103,
-          "y": 263,
-          "id": 863
+          "radius": 91,
+          "x": -119,
+          "y": -246,
+          "id": 943
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 20,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Kite puddles away from shiva",
+          "x": 1,
+          "y": 356,
+          "id": 944
         }
       ]
     },
@@ -2963,8 +2975,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 277,
-          "y": 42,
+          "x": -228,
+          "y": 40,
           "id": 865
         },
         {
@@ -2975,8 +2987,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -284,
-          "y": -32,
+          "x": -258,
+          "y": -28,
           "id": 866
         },
         {
@@ -2987,8 +2999,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 244,
-          "y": 14,
+          "x": -228,
+          "y": -1,
           "id": 867
         },
         {
@@ -2999,8 +3011,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 275,
-          "y": 8,
+          "x": -228,
+          "y": 23,
           "id": 868
         },
         {
@@ -3011,8 +3023,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -281,
-          "y": 24,
+          "x": -255,
+          "y": 22,
           "id": 869
         },
         {
@@ -3023,8 +3035,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 283,
-          "y": -25,
+          "x": -226,
+          "y": -26,
           "id": 870
         },
         {
@@ -3035,8 +3047,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -282,
-          "y": 49,
+          "x": -252,
+          "y": 45,
           "id": 871
         },
         {
@@ -3047,8 +3059,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -285,
-          "y": 0,
+          "x": -257,
+          "y": -2,
           "id": 872
         },
         {
@@ -3058,9 +3070,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Position at wall behind shiva or across from shiva\n and face away from the shiva outside the arena",
-          "x": 4,
-          "y": 369,
+          "text": "Position on ring across from shiva and \nlook out to dodge gaze",
+          "x": -41,
+          "y": 82,
           "id": 873
         },
         {
@@ -3078,78 +3090,6 @@
           "id": 874
         },
         {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 193,
-          "y": 197,
-          "id": 875
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -211,
-          "y": -200,
-          "id": 876
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -141,
-          "y": -252,
-          "id": 877
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -59,
-          "y": -281,
-          "id": 878
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 40,
-          "y": -284,
-          "id": 879
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 112,
-          "y": 254,
-          "id": 880
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 9,
-          "y": 280,
-          "id": 881
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -103,
-          "y": 263,
-          "id": 882
-        },
-        {
           "type": "enemy",
           "icon": "/actor/enemy_large.png",
           "name": "",
@@ -3162,6 +3102,78 @@
           "x": 328,
           "y": -1,
           "id": 883
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 194,
+          "y": -192,
+          "id": 946
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 111,
+          "y": -255,
+          "id": 948
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 4,
+          "y": -278,
+          "id": 949
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -112,
+          "y": -255,
+          "id": 950
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 200,
+          "y": 201,
+          "id": 951
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 113,
+          "y": 264,
+          "id": 952
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": 1,
+          "y": 290,
+          "id": 953
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 91,
+          "x": -111,
+          "y": 267,
+          "id": 954
         }
       ]
     },
@@ -3175,8 +3187,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 277,
-          "y": 42,
+          "x": -229,
+          "y": -28,
           "id": 884
         },
         {
@@ -3187,8 +3199,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -284,
-          "y": -32,
+          "x": -260,
+          "y": -28,
           "id": 885
         },
         {
@@ -3199,8 +3211,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 244,
-          "y": 14,
+          "x": -230,
+          "y": -2,
           "id": 886
         },
         {
@@ -3211,8 +3223,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 275,
-          "y": 8,
+          "x": -230,
+          "y": 24,
           "id": 887
         },
         {
@@ -3223,8 +3235,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -281,
-          "y": 24,
+          "x": -257,
+          "y": 22,
           "id": 888
         },
         {
@@ -3235,8 +3247,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 283,
-          "y": -25,
+          "x": -230,
+          "y": 44,
           "id": 889
         },
         {
@@ -3247,8 +3259,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -282,
-          "y": 49,
+          "x": -255,
+          "y": 45,
           "id": 890
         },
         {
@@ -3259,95 +3271,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -285,
-          "y": 0,
+          "x": -261,
+          "y": -4,
           "id": 891
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 200,
-          "y": 0,
-          "id": 893
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 193,
-          "y": 197,
-          "id": 894
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -211,
-          "y": -200,
-          "id": 895
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -141,
-          "y": -252,
-          "id": 896
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -59,
-          "y": -281,
-          "id": 897
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 40,
-          "y": -284,
-          "id": 898
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 112,
-          "y": 254,
-          "id": 899
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 9,
-          "y": 280,
-          "id": 900
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -103,
-          "y": 263,
-          "id": 901
         },
         {
           "type": "enemy",
@@ -3370,7 +3296,7 @@
           "radius": 519,
           "coneAngle": 270,
           "rotation": -90,
-          "x": 200,
+          "x": 150,
           "y": 0,
           "id": 903
         },
@@ -3390,9 +3316,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "\"In stillness Freeze!\" = frontal->backal",
-          "x": 2,
-          "y": 69,
+          "text": "\"In stillness Freeze!\"/Twin Stillness cast = frontal->backal\n\nStillness means slide twice",
+          "x": 7,
+          "y": 200,
           "id": 905
         },
         {
@@ -3400,12 +3326,38 @@
           "color": "#ff0000",
           "opacity": 100,
           "width": 30,
-          "height": 480,
+          "height": 448,
           "rotation": 90,
           "arrowEnd": true,
-          "x": -15,
-          "y": 6,
+          "x": -2,
+          "y": -21,
           "id": 906
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 150,
+          "y": 0,
+          "id": 893
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Slide",
+          "x": -8,
+          "y": -50,
+          "id": 1022
         }
       ]
     },
@@ -3419,9 +3371,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 277,
-          "y": 42,
-          "id": 907
+          "x": 251,
+          "y": -30,
+          "id": 1007
         },
         {
           "type": "party",
@@ -3431,9 +3383,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -284,
+          "x": 221,
           "y": -32,
-          "id": 908
+          "id": 1008
         },
         {
           "type": "party",
@@ -3443,9 +3395,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 244,
-          "y": 14,
-          "id": 909
+          "x": 248,
+          "y": -10,
+          "id": 1009
         },
         {
           "type": "party",
@@ -3455,9 +3407,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 275,
-          "y": 8,
-          "id": 910
+          "x": 250,
+          "y": 3,
+          "id": 1010
         },
         {
           "type": "party",
@@ -3467,9 +3419,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -281,
-          "y": 24,
-          "id": 911
+          "x": 219,
+          "y": 10,
+          "id": 1011
         },
         {
           "type": "party",
@@ -3479,9 +3431,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 283,
-          "y": -25,
-          "id": 912
+          "x": 248,
+          "y": 24,
+          "id": 1012
         },
         {
           "type": "party",
@@ -3491,9 +3443,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -282,
-          "y": 49,
-          "id": 913
+          "x": 220,
+          "y": 26,
+          "id": 1013
         },
         {
           "type": "party",
@@ -3503,95 +3455,9 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -285,
-          "y": 0,
-          "id": 914
-        },
-        {
-          "type": "enemy",
-          "icon": "/actor/enemy_large.png",
-          "name": "",
-          "color": "#0066ff",
-          "opacity": 65,
-          "radius": 90,
-          "status": [],
-          "rotation": 0,
-          "omniDirection": true,
-          "x": 200,
-          "y": 0,
-          "id": 915
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 193,
-          "y": 197,
-          "id": 916
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -211,
-          "y": -200,
-          "id": 917
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -141,
-          "y": -252,
-          "id": 918
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -59,
-          "y": -281,
-          "id": 919
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 40,
-          "y": -284,
-          "id": 920
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 112,
-          "y": 254,
-          "id": 921
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": 9,
-          "y": 280,
-          "id": 922
-        },
-        {
-          "type": "circle",
-          "color": "#ffc800",
-          "opacity": 35,
-          "radius": 73,
-          "x": -103,
-          "y": 263,
-          "id": 923
+          "x": 219,
+          "y": -9,
+          "id": 1014
         },
         {
           "type": "enemy",
@@ -3605,7 +3471,7 @@
           "omniDirection": true,
           "x": 328,
           "y": -1,
-          "id": 924
+          "id": 1015
         },
         {
           "type": "cone",
@@ -3614,9 +3480,9 @@
           "radius": 519,
           "coneAngle": 90,
           "rotation": 90,
-          "x": 200,
+          "x": 150,
           "y": 0,
-          "id": 925
+          "id": 1016
         },
         {
           "type": "circle",
@@ -3625,7 +3491,7 @@
           "radius": 300,
           "x": 0,
           "y": 0,
-          "id": 926
+          "id": 1017
         },
         {
           "type": "text",
@@ -3634,22 +3500,404 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "\"Sink into Silence!\" = backal->frontal",
-          "x": 2,
-          "y": 69,
-          "id": 927
+          "text": "\"In stillness Freeze!\"/Twin Stillness cast = frontal->backal\n\nStillness means slide twice",
+          "x": 7,
+          "y": 200,
+          "id": 1018
         },
         {
           "type": "arrow",
           "color": "#ff0000",
           "opacity": 100,
           "width": 30,
-          "height": 480,
+          "height": 448,
           "rotation": -90,
           "arrowEnd": true,
-          "x": -15,
-          "y": 6,
-          "id": 928
+          "x": -3,
+          "y": -21,
+          "id": 1019
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 150,
+          "y": 0,
+          "id": 1020
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Slide again",
+          "x": -1,
+          "y": -65,
+          "id": 1021
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -229,
+          "y": -28,
+          "id": 1023
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -260,
+          "y": -28,
+          "id": 1024
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": -2,
+          "id": 1025
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": 24,
+          "id": 1026
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -257,
+          "y": 22,
+          "id": 1027
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": 44,
+          "id": 1028
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -255,
+          "y": 45,
+          "id": 1029
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -261,
+          "y": -4,
+          "id": 1030
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 328,
+          "y": -1,
+          "id": 1031
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 519,
+          "coneAngle": 90,
+          "rotation": 90,
+          "x": 150,
+          "y": 0,
+          "id": 1032
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 1033
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"Sink into Silence!\"/Twin Silence cast = backal -> frontal\n\nSilence means slide once",
+          "x": 7,
+          "y": 200,
+          "id": 1034
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 150,
+          "y": 0,
+          "id": 1036
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Wait",
+          "x": -8,
+          "y": -50,
+          "id": 1037
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -229,
+          "y": -28,
+          "id": 1038
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -260,
+          "y": -28,
+          "id": 1039
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": -2,
+          "id": 1040
+        },
+        {
+          "type": "party",
+          "image": "/actor/DRK.png",
+          "name": "Dark Knight",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": 24,
+          "id": 1041
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -257,
+          "y": 22,
+          "id": 1042
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -230,
+          "y": 44,
+          "id": 1043
+        },
+        {
+          "type": "party",
+          "image": "/actor/VPR.png",
+          "name": "Viper",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -255,
+          "y": 45,
+          "id": 1044
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -261,
+          "y": -4,
+          "id": 1045
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 328,
+          "y": -1,
+          "id": 1046
+        },
+        {
+          "type": "cone",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 519,
+          "coneAngle": 270,
+          "rotation": -90,
+          "x": 150,
+          "y": 0,
+          "id": 1047
+        },
+        {
+          "type": "circle",
+          "color": "#00d5e8",
+          "opacity": 35,
+          "radius": 300,
+          "x": 0,
+          "y": 0,
+          "id": 1048
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "\"Sink into Silence!\"/Twin Silence cast = backal -> frontal\n\nSilence means slide once",
+          "x": 7,
+          "y": 200,
+          "id": 1049
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Twin Stillness",
+          "color": "#0066ff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": true,
+          "x": 150,
+          "y": 0,
+          "id": 1050
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Slide",
+          "x": -8,
+          "y": -50,
+          "id": 1051
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 448,
+          "rotation": 90,
+          "arrowEnd": true,
+          "x": -2,
+          "y": -21,
+          "id": 1052
         }
       ]
     }
