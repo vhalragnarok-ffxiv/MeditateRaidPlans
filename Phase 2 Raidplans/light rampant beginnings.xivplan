@@ -1,0 +1,488 @@
+{
+  "nextId": 58,
+  "arena": {
+    "shape": "circle",
+    "width": 600,
+    "height": 600,
+    "padding": 120,
+    "grid": {
+      "type": "customRadial",
+      "rings": [
+        120,
+        240
+      ],
+      "spokes": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ]
+    },
+    "backgroundImage": "/arena/e8.png",
+    "backgroundOpacity": 65
+  },
+  "steps": [
+    {
+      "objects": [
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 1,
+          "y": 242,
+          "id": 1
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 208,
+          "y": 119,
+          "id": 2
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 212,
+          "y": -114,
+          "id": 3
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 0,
+          "y": -240,
+          "id": 4
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": -213,
+          "y": -116,
+          "id": 5
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": -205,
+          "y": 119,
+          "id": 6
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 10,
+          "endId": 7,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 13
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 7,
+          "endId": 11,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 14
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -204,
+          "y": 119,
+          "id": 7
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 11,
+          "endId": 8,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 15
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 8,
+          "endId": 12,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 16
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 204,
+          "y": 124,
+          "id": 8
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 9,
+          "endId": 12,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 17
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 9,
+          "endId": 10,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 18
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -1,
+          "y": -238,
+          "id": 9
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -222,
+          "y": -125,
+          "id": 10
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -4,
+          "y": 238,
+          "id": 11
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 211,
+          "y": -119,
+          "id": 12
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": -203,
+          "y": 116,
+          "id": 19
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": -7,
+          "y": 234,
+          "id": 20
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 0,
+          "y": 242,
+          "id": 21,
+          "pinned": true
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 208,
+          "y": 121,
+          "id": 22,
+          "pinned": true
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 209,
+          "y": -119,
+          "id": 23,
+          "pinned": true
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": 0,
+          "y": -240,
+          "id": 24,
+          "pinned": true
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": -208,
+          "y": -119,
+          "id": 25,
+          "pinned": true
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 40,
+          "count": 1,
+          "x": -209,
+          "y": 120,
+          "id": 26,
+          "pinned": true
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -289,
+          "y": 25,
+          "id": 29
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 37,
+          "endId": 32,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 54
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 32,
+          "endId": 36,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 55
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 209,
+          "y": 119,
+          "id": 32
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 36,
+          "endId": 35,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 56
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 35,
+          "endId": 41,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 57
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 209,
+          "y": -120,
+          "id": 35
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -211,
+          "y": -121,
+          "id": 36
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 42,
+          "endId": 37,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 53
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -212,
+          "y": 121,
+          "id": 37
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -269,
+          "y": 21,
+          "id": 38
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": -206,
+          "y": 118,
+          "id": 39
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 75,
+          "x": 214,
+          "y": -126,
+          "id": 40
+        },
+        {
+          "type": "tether",
+          "tether": "line",
+          "startId": 41,
+          "endId": 42,
+          "width": 6,
+          "color": "#fc972b",
+          "opacity": 80,
+          "id": 52
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 2,
+          "y": 241,
+          "id": 41
+        },
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 4,
+          "y": -241,
+          "id": 42
+        }
+      ]
+    }
+  ]
+}
