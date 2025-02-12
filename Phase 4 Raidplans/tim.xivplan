@@ -3900,48 +3900,6 @@
           "color": "#f269ff",
           "opacity": 55,
           "radius": 68,
-          "x": -96,
-          "y": -96,
-          "id": 1324
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": 97,
-          "y": -94,
-          "id": 1325
-        },
-        {
-          "type": "icon",
-          "image": "/marker/bind3.png",
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "name": "Bind 3",
-          "x": -93,
-          "y": -99,
-          "id": 1326
-        },
-        {
-          "type": "icon",
-          "image": "https://beta.xivapi.com/api/1/asset/ui/icon/215000/215242_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Wyrmfang",
-          "iconId": 215242,
-          "maxStacks": 0,
-          "x": 96,
-          "y": -95,
-          "id": 1327
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
           "x": -199,
           "y": 97,
           "id": 1328
@@ -4314,48 +4272,6 @@
           "x": 135,
           "y": 102,
           "id": 1268
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": -96,
-          "y": -96,
-          "id": 1270
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": 97,
-          "y": -94,
-          "id": 1271
-        },
-        {
-          "type": "icon",
-          "image": "/marker/bind3.png",
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "name": "Bind 3",
-          "x": -93,
-          "y": -99,
-          "id": 1277
-        },
-        {
-          "type": "icon",
-          "image": "https://beta.xivapi.com/api/1/asset/ui/icon/215000/215242_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Wyrmfang",
-          "iconId": 215242,
-          "maxStacks": 0,
-          "x": 96,
-          "y": -95,
-          "id": 1278
         },
         {
           "type": "circle",
@@ -4740,48 +4656,6 @@
           "color": "#f269ff",
           "opacity": 55,
           "radius": 68,
-          "x": -96,
-          "y": -96,
-          "id": 1357
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": 97,
-          "y": -94,
-          "id": 1358
-        },
-        {
-          "type": "icon",
-          "image": "/marker/bind3.png",
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "name": "Bind 3",
-          "x": -93,
-          "y": -99,
-          "id": 1359
-        },
-        {
-          "type": "icon",
-          "image": "https://beta.xivapi.com/api/1/asset/ui/icon/215000/215242_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Wyrmfang",
-          "iconId": 215242,
-          "maxStacks": 0,
-          "x": 96,
-          "y": -95,
-          "id": 1360
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
           "x": 197,
           "y": -92,
           "id": 1361
@@ -5130,48 +5004,6 @@
           "x": -138,
           "y": -97,
           "id": 1391
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": -96,
-          "y": -96,
-          "id": 1392
-        },
-        {
-          "type": "circle",
-          "color": "#f269ff",
-          "opacity": 55,
-          "radius": 68,
-          "x": 97,
-          "y": -94,
-          "id": 1393
-        },
-        {
-          "type": "icon",
-          "image": "/marker/bind3.png",
-          "width": 40,
-          "height": 40,
-          "rotation": 0,
-          "name": "Bind 3",
-          "x": -93,
-          "y": -99,
-          "id": 1394
-        },
-        {
-          "type": "icon",
-          "image": "https://beta.xivapi.com/api/1/asset/ui/icon/215000/215242_hr1.tex?format=png",
-          "width": 24,
-          "height": 32,
-          "rotation": 0,
-          "name": "Wyrmfang",
-          "iconId": 215242,
-          "maxStacks": 0,
-          "x": 96,
-          "y": -95,
-          "id": 1395
         },
         {
           "type": "circle",
