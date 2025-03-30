@@ -1,4 +1,4 @@
-For Static FRU Raidplans. 
+For Meditate Static Raidplans. 
 
 See discord or ask me how to contribute final raid plans. 
 
