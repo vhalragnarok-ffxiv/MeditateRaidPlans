@@ -1,0 +1,1446 @@
+{
+  "nextId": 160,
+  "arena": {
+    "shape": "circle",
+    "width": 600,
+    "height": 600,
+    "padding": 120,
+    "grid": {
+      "type": "customRadial",
+      "rings": [
+        120,
+        240
+      ],
+      "spokes": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ]
+    },
+    "backgroundImage": "/arena/e8.png",
+    "backgroundOpacity": 65
+  },
+  "steps": [
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 1
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 2
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": false,
+          "x": 0,
+          "y": 0,
+          "id": 3
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -50,
+          "y": -4,
+          "id": 6
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 38,
+          "y": 12,
+          "id": 7
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 43,
+          "y": -30,
+          "id": 8
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -46,
+          "y": -32,
+          "id": 9
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -50,
+          "y": 45,
+          "id": 14
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -1,
+          "y": 103,
+          "id": 15
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 16,
+          "y": -34,
+          "id": 16
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -14,
+          "y": -38,
+          "id": 17
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Since Red Mirrors are always 90 degrees away from each other,\nI will define them as Relative NW and NE",
+          "x": 4,
+          "y": 155,
+          "id": 93
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "The blue mirror can spawn on any other ordinal",
+          "x": -2,
+          "y": -110,
+          "id": 94
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 50,
+          "x": -359,
+          "y": 0,
+          "id": 159
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 95
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 96
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 90,
+          "omniDirection": false,
+          "x": 150,
+          "y": 0,
+          "id": 97
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -294,
+          "y": -40,
+          "id": 98
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -292,
+          "y": 45,
+          "id": 99
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -270,
+          "y": 32,
+          "id": 100
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -272,
+          "y": -32,
+          "id": 101
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 178,
+          "y": -27,
+          "id": 102
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 177,
+          "y": 24,
+          "id": 103
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 151,
+          "y": -31,
+          "id": 104
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 150,
+          "y": 25,
+          "id": 105
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Main Tank pulls boss away from blue mirror.\nMelees bait boss proteans, ranged bait mirror proteans",
+          "x": -6,
+          "y": 371,
+          "id": 107
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 50,
+          "x": -354,
+          "y": 1,
+          "id": 108
+        },
+        {
+          "type": "donut",
+          "color": "#fc972b",
+          "opacity": 35,
+          "innerRadius": 60,
+          "radius": 300,
+          "x": -300,
+          "y": 0,
+          "id": 109
+        },
+        {
+          "type": "donut",
+          "color": "#fc972b",
+          "opacity": 35,
+          "innerRadius": 60,
+          "radius": 300,
+          "x": 150,
+          "y": 0,
+          "id": 110
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 9,
+          "x": -300,
+          "y": 0,
+          "id": 111
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 500,
+          "coneAngle": 30,
+          "rotation": 45,
+          "x": -300,
+          "y": 0,
+          "id": 112
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 500,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": -300,
+          "y": 0,
+          "id": 113
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 170,
+          "x": -300,
+          "y": 0,
+          "id": 114
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 0,
+          "x": 150,
+          "y": 0,
+          "id": 115
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 180,
+          "x": 150,
+          "y": 0,
+          "id": 116
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 45,
+          "x": 150,
+          "y": 0,
+          "id": 117
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": 150,
+          "y": 0,
+          "id": 118
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 119
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 120
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 90,
+          "omniDirection": false,
+          "x": 150,
+          "y": 0,
+          "id": 121
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -294,
+          "y": -40,
+          "id": 122
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -292,
+          "y": 45,
+          "id": 123
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -270,
+          "y": 32,
+          "id": 124
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -272,
+          "y": -32,
+          "id": 125
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 178,
+          "y": -27,
+          "id": 126
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 177,
+          "y": 24,
+          "id": 127
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 151,
+          "y": -31,
+          "id": 128
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 150,
+          "y": 25,
+          "id": 129
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Each group will then move to one of the red mirrors.\nPriority is closest than CW if equidistant",
+          "x": -6,
+          "y": 371,
+          "id": 130
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 50,
+          "x": -354,
+          "y": 1,
+          "id": 131
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 19,
+          "arrowEnd": true,
+          "x": -240,
+          "y": 91,
+          "id": 142
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 15,
+          "arrowEnd": true,
+          "x": 178,
+          "y": 105,
+          "id": 143
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 144
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 145
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": 0,
+          "omniDirection": false,
+          "x": 0,
+          "y": 150,
+          "id": 146
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 44,
+          "y": -292,
+          "id": 147
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -46,
+          "y": -290,
+          "id": 148
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -30,
+          "y": -261,
+          "id": 149
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 25,
+          "y": -263,
+          "id": 150
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 11,
+          "y": 205,
+          "id": 151
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -22,
+          "y": 206,
+          "id": 152
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 29,
+          "y": 179,
+          "id": 153
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -36,
+          "y": 181,
+          "id": 154
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Each group will then move to one of the red mirrors.\nPriority is closest than CW if equidistant",
+          "x": -6,
+          "y": 371,
+          "id": 155
+        },
+        {
+          "type": "circle",
+          "color": "#0066ff",
+          "opacity": 35,
+          "radius": 50,
+          "x": 0,
+          "y": -359,
+          "id": 156
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 458,
+          "rotation": -24,
+          "arrowEnd": true,
+          "x": -108,
+          "y": -23,
+          "id": 157
+        },
+        {
+          "type": "arrow",
+          "color": "#ff0000",
+          "opacity": 100,
+          "width": 30,
+          "height": 150,
+          "rotation": 85,
+          "arrowEnd": true,
+          "x": 115,
+          "y": 206,
+          "id": 158
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 72
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 73
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": -50,
+          "omniDirection": false,
+          "x": -133,
+          "y": 152,
+          "id": 74
+        },
+        {
+          "type": "donut",
+          "color": "#fc972b",
+          "opacity": 35,
+          "innerRadius": 60,
+          "radius": 300,
+          "x": -212,
+          "y": 212,
+          "id": 75
+        },
+        {
+          "type": "donut",
+          "color": "#fc972b",
+          "opacity": 35,
+          "innerRadius": 60,
+          "radius": 300,
+          "x": 212,
+          "y": 212,
+          "id": 76
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 186,
+          "y": 229,
+          "id": 77
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 234,
+          "y": 183,
+          "id": 78
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 209,
+          "y": 169,
+          "id": 79
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 181,
+          "y": 176,
+          "id": 80
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 281,
+          "coneAngle": 30,
+          "rotation": 143,
+          "x": 212,
+          "y": 212,
+          "id": 81
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 600,
+          "coneAngle": 30,
+          "rotation": 183,
+          "x": 212,
+          "y": 212,
+          "id": 82
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 600,
+          "coneAngle": 30,
+          "rotation": 225,
+          "x": 212,
+          "y": 212,
+          "id": 83
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": -57,
+          "x": 212,
+          "y": 212,
+          "id": 84
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -181,
+          "y": 185,
+          "id": 85
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -210,
+          "y": 175,
+          "id": 86
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -184,
+          "y": 229,
+          "id": 87
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -236,
+          "y": 183,
+          "id": 88
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 216,
+          "x": -212,
+          "y": 212,
+          "id": 89
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 600,
+          "coneAngle": 30,
+          "rotation": 176,
+          "x": -212,
+          "y": 212,
+          "id": 90
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 600,
+          "coneAngle": 30,
+          "rotation": 135,
+          "x": -212,
+          "y": 212,
+          "id": 91
+        },
+        {
+          "type": "cone",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 300,
+          "coneAngle": 30,
+          "rotation": 60,
+          "x": -212,
+          "y": 212,
+          "id": 92
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 22
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 23
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": -50,
+          "omniDirection": false,
+          "x": -133,
+          "y": 152,
+          "id": 24
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 83,
+          "y": 222,
+          "id": 27
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 84,
+          "y": 99,
+          "id": 28
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 208,
+          "y": 85,
+          "id": 29
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 199,
+          "y": 213,
+          "id": 30
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -167,
+          "y": 219,
+          "id": 35
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -184,
+          "y": 96,
+          "id": 36
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -40,
+          "y": 220,
+          "id": 37
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -50,
+          "y": 98,
+          "id": 38
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 83,
+          "y": 223,
+          "id": 43
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Spread Variant",
+          "x": 10,
+          "y": 368,
+          "id": 44
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -40,
+          "y": 224,
+          "id": 45
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -166,
+          "y": 223,
+          "id": 46
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -186,
+          "y": 97,
+          "id": 47
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -48,
+          "y": 104,
+          "id": 48
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 84,
+          "y": 103,
+          "id": 49
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 206,
+          "y": 88,
+          "id": 50
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 199,
+          "y": 212,
+          "id": 51
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": -253,
+          "y": 264,
+          "id": 52
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 50,
+          "x": 263,
+          "y": 257,
+          "id": 53
+        },
+        {
+          "type": "enemy",
+          "icon": "/actor/enemy_large.png",
+          "name": "Usurper of Frost",
+          "color": "#ffffff",
+          "opacity": 65,
+          "radius": 90,
+          "status": [],
+          "rotation": -50,
+          "omniDirection": false,
+          "x": -133,
+          "y": 152,
+          "id": 54
+        },
+        {
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 83,
+          "y": 222,
+          "id": 55
+        },
+        {
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 84,
+          "y": 99,
+          "id": 56
+        },
+        {
+          "type": "party",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 114,
+          "y": 103,
+          "id": 57
+        },
+        {
+          "type": "party",
+          "image": "/actor/PCT.png",
+          "name": "Pictomancer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": 111,
+          "y": 229,
+          "id": 58
+        },
+        {
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -71,
+          "y": 229,
+          "id": 59
+        },
+        {
+          "type": "party",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -83,
+          "y": 104,
+          "id": 60
+        },
+        {
+          "type": "party",
+          "image": "/actor/SAM.png",
+          "name": "Samurai",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -40,
+          "y": 220,
+          "id": 61
+        },
+        {
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -50,
+          "y": 98,
+          "id": 62
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 83,
+          "y": 223,
+          "id": 63
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Buddy Stack Variant",
+          "x": 10,
+          "y": 368,
+          "id": 64
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -40,
+          "y": 224,
+          "id": 65
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": -48,
+          "y": 104,
+          "id": 68
+        },
+        {
+          "type": "circle",
+          "color": "#ffc800",
+          "opacity": 35,
+          "radius": 74,
+          "x": 84,
+          "y": 103,
+          "id": 69
+        }
+      ]
+    }
+  ]
+}
